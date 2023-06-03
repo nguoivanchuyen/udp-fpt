@@ -273,13 +273,13 @@ udp://@225.1.4.87:30120
 udp://@225.1.4.176:30120
 #-------------------Quốc tế-------------------#
 
-#EXTINF:-1 group-title="Quốc Tế (SD)",Arirang
+#EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",Arirang
 udp://@225.1.1.201:30120
 #EXTINF:-1 group-title="Quốc Tế (SD)",CNBC
 udp://@225.1.1.227:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",ABC AUSTRALIA (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",ABC AUSTRALIA 
 udp://@225.1.4.19:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Animal Planet (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Animal Planet 
 udp://@225.1.4.209:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Animax HD (HD 4Mbps)
 udp://@225.1.4.168:30120
