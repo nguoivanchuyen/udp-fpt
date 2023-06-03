@@ -1,16 +1,16 @@
 #EXTM3U
 #-------------------VTV-------------------#
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 
+#EXTINF:-1 group-title="VTV" tvg-logo="https://imgur.com/niHBkS0.png",VTV1 
 udp://@225.1.4.1:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 
+#EXTINF:-1 group-title="VTV" tvg-logo="https://imgur.com/EUD7roS.png",VTV2 
 udp://@225.1.4.2:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 
+#EXTINF:-1 group-title="VTV" tvg-logo="https://imgur.com/GkxqoUF.png",VTV3 
 udp://@225.1.4.3:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 
+#EXTINF:-1 group-title="VTV" tvg-logo="https://imgur.com/m4BK6rk.png",VTV4 
 udp://@225.1.4.4:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 
+#EXTINF:-1 group-title="VTV" tvg-logo="https://imgur.com/6s6sIqT.png",VTV5 
 udp://@225.1.4.5:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ
+#EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01.png",VTV Cần Thơ
 udp://@225.1.4.108:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 Tây Nam Bộ
 udp://@225.1.4.184:30120
