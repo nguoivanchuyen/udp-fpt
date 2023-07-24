@@ -113,6 +113,115 @@ udp://@225.1.4.148:30120
 udp://@225.1.4.170:30120
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 4Mbps)
 udp://@225.1.4.219:30120
+
+#-------------------Quốc tế-------------------#
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",Arirang
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="Quốc Tế",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="Quốc Tế",ABC AUSTRALIA 
+udp://@225.1.4.19:30120
+#EXTINF:-1 group-title="Quốc Tế",Animal Planet 
+udp://@225.1.4.209:30120
+#EXTINF:-1 group-title="Quốc Tế",Animax HD
+udp://@225.1.4.168:30120
+#EXTINF:-1 group-title="Quốc Tế",Asian Food Network 
+udp://@225.1.4.36:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
+udp://@225.1.4.9:30120
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
+udp://@225.1.4.205:30120
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
+udp://@225.1.4.90:30120
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits HD", HBO Hits HD
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature HD
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family HD", HBO Family HD
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+
+#EXTINF:-1 group-title="Quốc Tế",BabyTV
+udp://@225.1.4.207:30120
+#EXTINF:-1 group-title="Quốc Tế",BBC CBeeBies
+udp://@225.1.4.29:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC earth HD 
+udp://@225.1.4.21:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC lifestyle 
+udp://@225.1.4.23:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC NEWS 
+udp://@225.1.4.22:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BLOOMBERG 
+udp://@225.1.4.18:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",BOOMERANG 
+udp://@225.1.4.16:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",CARTOON NETWORK HD 
+udp://@225.1.4.13:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Cinema World 
+udp://@225.1.4.15:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",CNA 
+udp://@225.1.4.76:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",CNN 
+udp://@225.1.4.17:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci 
+udp://@225.1.4.208:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Asia 
+udp://@225.1.4.25:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel 
+udp://@225.1.4.24:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Dreamworks 
+udp://@225.1.4.39:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",DW (HD 4Mbps)
+udp://@225.1.4.75:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",FASHION TV HD 
+udp://@225.1.4.20:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",FRANCE 24 
+udp://@225.1.4.212:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO (HD 4Mbps)
+#udp://@225.1.4.183:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD (HD 4Mbps)
+udp://@225.1.4.214:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 4Mbps)
+udp://@225.1.4.40:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+udp://@225.1.4.215:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD HD (HD 4Mbps)
+udp://@225.1.4.83:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 4Mbps)
+udp://@225.1.4.73:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 4Mbps)
+udp://@225.1.4.210:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 4Mbps)
+udp://@225.1.4.26:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",TV5 MONDE ASIE (HD 4Mbps)
+udp://@225.1.4.213:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6.png",WBTV HD
+udp://@225.1.4.14:30120
+
 #-------------------Địa phương-------------------#
 #EXTINF:-1 group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
@@ -275,121 +384,6 @@ udp://@225.1.4.87:30120
 #EXTINF:-1 group-title="Địa phương (HD)",THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
 udp://@225.1.4.176:30120
 
-#-------------------Quốc tế-------------------#
-
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",Arirang
-udp://@225.1.1.201:30120
-#EXTINF:-1 group-title="Quốc Tế",CNBC
-udp://@225.1.1.227:30120
-#EXTINF:-1 group-title="Quốc Tế",ABC AUSTRALIA 
-udp://@225.1.4.19:30120
-#EXTINF:-1 group-title="Quốc Tế",Animal Planet 
-udp://@225.1.4.209:30120
-#EXTINF:-1 group-title="Quốc Tế",Animax HD
-udp://@225.1.4.168:30120
-#EXTINF:-1 group-title="Quốc Tế",Asian Food Network 
-udp://@225.1.4.36:30120
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
-udp://@225.1.4.9:30120
-
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
-udp://@225.1.4.205:30120
-
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
-udp://@225.1.4.90:30120
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits HD", HBO Hits HD
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature HD
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family HD", HBO Family HD
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-id="Quốc Tế" tvg-logo="https://i.postimg.cc/m274Vmtj/20230526-204035.png" group-title="Film",HBO+ HD
-https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
-
-#EXTINF:-1 group-title="Quốc Tế",BabyTV
-udp://@225.1.4.207:30120
-#EXTINF:-1 group-title="Quốc Tế",BBC CBeeBies
-udp://@225.1.4.29:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC earth HD 
-udp://@225.1.4.21:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC lifestyle 
-udp://@225.1.4.23:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC NEWS 
-udp://@225.1.4.22:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BLOOMBERG 
-udp://@225.1.4.18:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BOOMERANG 
-udp://@225.1.4.16:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CARTOON NETWORK HD 
-udp://@225.1.4.13:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Cinema World 
-udp://@225.1.4.15:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CNA 
-udp://@225.1.4.76:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CNN 
-udp://@225.1.4.17:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci 
-udp://@225.1.4.208:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Asia 
-udp://@225.1.4.25:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel 
-udp://@225.1.4.24:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Dreamworks 
-udp://@225.1.4.39:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",DW (HD 4Mbps)
-udp://@225.1.4.75:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FASHION TV HD 
-udp://@225.1.4.20:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FRANCE 24 
-udp://@225.1.4.212:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO (HD 4Mbps)
-#udp://@225.1.4.183:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD (HD 4Mbps)
-udp://@225.1.4.214:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 4Mbps)
-udp://@225.1.4.40:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
-udp://@225.1.4.215:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD HD (HD 4Mbps)
-udp://@225.1.4.83:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 4Mbps)
-udp://@225.1.4.73:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 4Mbps)
-udp://@225.1.4.210:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 4Mbps)
-udp://@225.1.4.26:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",TV5 MONDE ASIE (HD 4Mbps)
-udp://@225.1.4.213:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6.png",WBTV HD
-udp://@225.1.4.14:30120
 
 #-------------------FPT Play-------------------#
 #EXTINF:-1 group-title="FPT Play",VTC2
