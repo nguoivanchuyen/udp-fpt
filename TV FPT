@@ -133,12 +133,48 @@ udp://@225.1.4.168:30120
 https://iplogger.com/22XaT7
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480.png",Asian Food Network 
 udp://@225.1.4.36:30120
+#EXTINF:-1,Tvr 1
+#KODIPROP:inputstream.adaptive.license_type=clear
+#KODIPROP:inputstream.adaptive.license_key=ac1d869a9eda409e9ee1547d372f14f0:0906cd2637555a24df53ec28e0f99ac2
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetvr1ro/Manifest.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
 udp://@225.1.4.9:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
 udp://@225.1.4.205:30120
+
+#EXTINF:-1 tvg-id="cinemax" group-title="Quốc Tế" tvg-logo="https://m7cz.solocoo.tv/m7cziphone/mmchan/navasset/cinemax1_484dec85-7f5d-47dd-b13a-56b3496735f8_447_251.png", CINEMAX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36e9e318eb5d44058b75fb18db2d6fe9:9fe303835433d15ab2f1680c3a175f93
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluecinemaxro/Manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax2" group-title="Quốc Tế" tvg-logo="https://m7cz.solocoo.tv/m7cziphone/mmchan/navasset/cinemax21_b2bb2293-517d-442d-9862-2508b570e919_447_251.png", CINEMAX 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d0f7c3a252d44558ad8b6fd3f0f1721:54fd50abfcf29d9bae9b2c889cd82ad0
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluecinemax2ro/Manifest.mpd
+
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
 udp://@225.1.4.90:30120
+
+#EXTINF:-1 tvg-id="hbo" group-title="Quốc Tế" tvg-logo="https://m7cz.solocoo.tv/m7cziphone/mmchan/navasset/hbo1_2a41e47f-e5f5-4030-86a1-9d2a7cbd895a_447_251.png", HBO RO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ce840ae4c7244888b56def83d9d6909:5da720d74289f4b96dcbffac3912d485
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehboro/Manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo2" group-title="Quốc Tế" tvg-logo="https://m7cz.solocoo.tv/m7cziphone/mmchan/navasset/hbo21_a27bd254-4b69-4d03-86a8-359e6f90beea_447_251.png", HBO2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37899bd20f1745f4961a1ca82146cb71:bfdb5a62f5d3bf59ff2515c49a968a51
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehbo2ro/Manifest.mpd
+
+#EXTINF:-1 tvg-id="hbo3" group-title="Quốc Tế" tvg-logo="https://m7cz.solocoo.tv/m7cziphone/mmchan/navasset/hbo31_14d13dfb-dc75-428e-aecb-19e70ae7a4a2_447_251.png", HBO3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=263574912fed4250b4c6c75f373dc789:59b24e1f1d0b04726f1301ded653cc27
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehbo3ro/Manifest.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
