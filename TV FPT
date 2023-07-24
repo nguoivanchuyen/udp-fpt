@@ -225,11 +225,11 @@ udp://@225.1.4.18:30120
 udp://@225.1.4.16:30120
 #EXTINF:-1 group-title="Quốc Tế",CARTOON NETWORK HD 
 udp://@225.1.4.13:30120
-#EXTINF:-1 group-title="Quốc Tế",Cinema World 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png",Cinema World 
 udp://@225.1.4.15:30120
-#EXTINF:-1 group-title="Quốc Tế",CNA 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",CNA 
 udp://@225.1.4.76:30120
-#EXTINF:-1 group-title="Quốc Tế",CNN 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch316_160_115",CNN 
 udp://@225.1.4.17:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch460_160_115",Da Vinci 
 udp://@225.1.4.208:30120
@@ -237,7 +237,7 @@ udp://@225.1.4.208:30120
 udp://@225.1.4.25:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69.png",Discovery Channel 
 udp://@225.1.4.24:30120
-#EXTINF:-1 group-title="Quốc Tế",Dreamworks 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch440_160_115",Dreamworks 
 udp://@225.1.4.39:30120
 #EXTINF:-1 group-title="Quốc Tế",DW (HD 4Mbps)
 udp://@225.1.4.75:30120
@@ -259,7 +259,7 @@ udp://@225.1.4.83:30120
 udp://@225.1.4.73:30120
 #EXTINF:-1 group-title="Quốc Tế",Outdoor Channel (HD 4Mbps)
 udp://@225.1.4.210:30120
-#EXTINF:-1 group-title="Quốc Tế",TLC (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",TLC (HD 4Mbps)
 udp://@225.1.4.26:30120
 #EXTINF:-1 group-title="Quốc Tế",TV5 MONDE ASIE (HD 4Mbps)
 udp://@225.1.4.213:30120
