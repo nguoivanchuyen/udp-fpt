@@ -195,11 +195,11 @@ https://iplogger.com/224UR7
 udp://@225.1.4.207:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/CBeebies_II.png",BBC CBeeBies
 udp://@225.1.4.29:30120
-#EXTINF:-1 group-title="Quốc Tế",BBC earth HD 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo=https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch220_160_115",BBC earth HD 
 udp://@225.1.4.21:30120
 #EXTINF:-1 group-title="Quốc Tế",BBC lifestyle 
 udp://@225.1.4.23:30120
-#EXTINF:-1 group-title="Quốc Tế",BBC NEWS 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch320_170_122",BBC NEWS 
 udp://@225.1.4.22:30120
 #EXTINF:-1 group-title="Quốc Tế",BLOOMBERG 
 udp://@225.1.4.18:30120
@@ -213,11 +213,11 @@ udp://@225.1.4.15:30120
 udp://@225.1.4.76:30120
 #EXTINF:-1 group-title="Quốc Tế",CNN 
 udp://@225.1.4.17:30120
-#EXTINF:-1 group-title="Quốc Tế",Da Vinci 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch460_160_115",Da Vinci 
 udp://@225.1.4.208:30120
-#EXTINF:-1 group-title="Quốc Tế",Discovery Asia 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_160_115",Discovery Asia 
 udp://@225.1.4.25:30120
-#EXTINF:-1 group-title="Quốc Tế",Discovery Channel 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69.png",Discovery Channel 
 udp://@225.1.4.24:30120
 #EXTINF:-1 group-title="Quốc Tế",Dreamworks 
 udp://@225.1.4.39:30120
