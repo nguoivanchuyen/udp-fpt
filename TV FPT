@@ -197,6 +197,11 @@ https://iplogger.com/22DXR7
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279.png", HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/22N2T7
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" catchup="append" catchup-days="7" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
+https://iplogger.com/22J3T7
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e.png" tvg-id="musicbox", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/224UR7
