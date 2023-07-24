@@ -192,7 +192,7 @@ https://iplogger.com/22QYR7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iplogger.com/22EXR7
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DGTM+5eOc5C9MzRAdUkq7A", "kid":"U7JvkErgOiC1ZHfPucXcog" } ], "type":"temporary" }
 https://iplogger.com/22DXR7
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e.png" tvg-id="musicbox", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
