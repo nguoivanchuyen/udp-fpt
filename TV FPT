@@ -118,15 +118,15 @@ udp://@225.1.4.219:30120
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",Arirang
 udp://@225.1.1.201:30120
-#EXTINF:-1 group-title="Quốc Tế",CNBC
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch319_160_115",CNBC
 udp://@225.1.1.227:30120
 #EXTINF:-1 group-title="Quốc Tế",ABC AUSTRALIA 
 udp://@225.1.4.19:30120
-#EXTINF:-1 group-title="Quốc Tế",Animal Planet 
+#EXTINF:-1 group-title="Quốc Tế" ,Animal Planet 
 udp://@225.1.4.209:30120
-#EXTINF:-1 group-title="Quốc Tế",Animax HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_160_115",Animax HD
 udp://@225.1.4.168:30120
-#EXTINF:-1 group-title="Quốc Tế",Asian Food Network 
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480.png",Asian Food Network 
 udp://@225.1.4.36:30120
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
 udp://@225.1.4.9:30120
@@ -191,61 +191,61 @@ https://iplogger.com/22QYR7
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e.png" tvg-id="musicbox", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/224UR7
-#EXTINF:-1 group-title="Quốc Tế",BabyTV
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/BabyTV.png/1200px-BabyTV.png",BabyTV
 udp://@225.1.4.207:30120
-#EXTINF:-1 group-title="Quốc Tế",BBC CBeeBies
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/CBeebies_II.png",BBC CBeeBies
 udp://@225.1.4.29:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC earth HD 
+#EXTINF:-1 group-title="Quốc Tế",BBC earth HD 
 udp://@225.1.4.21:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC lifestyle 
+#EXTINF:-1 group-title="Quốc Tế",BBC lifestyle 
 udp://@225.1.4.23:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BBC NEWS 
+#EXTINF:-1 group-title="Quốc Tế",BBC NEWS 
 udp://@225.1.4.22:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BLOOMBERG 
+#EXTINF:-1 group-title="Quốc Tế",BLOOMBERG 
 udp://@225.1.4.18:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",BOOMERANG 
+#EXTINF:-1 group-title="Quốc Tế",BOOMERANG 
 udp://@225.1.4.16:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CARTOON NETWORK HD 
+#EXTINF:-1 group-title="Quốc Tế",CARTOON NETWORK HD 
 udp://@225.1.4.13:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Cinema World 
+#EXTINF:-1 group-title="Quốc Tế",Cinema World 
 udp://@225.1.4.15:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CNA 
+#EXTINF:-1 group-title="Quốc Tế",CNA 
 udp://@225.1.4.76:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",CNN 
+#EXTINF:-1 group-title="Quốc Tế",CNN 
 udp://@225.1.4.17:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci 
+#EXTINF:-1 group-title="Quốc Tế",Da Vinci 
 udp://@225.1.4.208:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Asia 
+#EXTINF:-1 group-title="Quốc Tế",Discovery Asia 
 udp://@225.1.4.25:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel 
+#EXTINF:-1 group-title="Quốc Tế",Discovery Channel 
 udp://@225.1.4.24:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Dreamworks 
+#EXTINF:-1 group-title="Quốc Tế",Dreamworks 
 udp://@225.1.4.39:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",DW (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế",DW (HD 4Mbps)
 udp://@225.1.4.75:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FASHION TV HD 
+#EXTINF:-1 group-title="Quốc Tế",FASHION TV HD 
 udp://@225.1.4.20:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",FRANCE 24 
+#EXTINF:-1 group-title="Quốc Tế",FRANCE 24 
 udp://@225.1.4.212:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO (HD 4Mbps)
 #udp://@225.1.4.183:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế",KBS WORLD (HD 4Mbps)
 udp://@225.1.4.214:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế",KIX (HD 4Mbps)
 udp://@225.1.4.40:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.4.215:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD HD (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế",NAT GEO WILD HD (HD 4Mbps)
 udp://@225.1.4.83:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế",NHK WORLD JAPAN (HD 4Mbps)
 udp://@225.1.4.73:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế",Outdoor Channel (HD 4Mbps)
 udp://@225.1.4.210:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế",TLC (HD 4Mbps)
 udp://@225.1.4.26:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",TV5 MONDE ASIE (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế",TV5 MONDE ASIE (HD 4Mbps)
 udp://@225.1.4.213:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6.png",WBTV HD
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6.png",WBTV HD
 udp://@225.1.4.14:30120
 
 #-------------------Địa phương-------------------#
