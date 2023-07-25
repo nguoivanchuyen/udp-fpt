@@ -25,6 +25,11 @@ udp://@225.1.4.7:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc.png",VTV9 HD
 udp://@225.1.4.8:30120
 
+#EXTINF:-1  group-logo="https://i.upanh.org/2023/04/18/thetheofd5b51f3eb8792c7.png" tvg-id="polsat.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Polsat_Sport_Logo.png" group-title="Kênh Thể Thao",Polsat Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://webudit.cdndac.lol/lb/84/index.m3u8
+
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822333227/695ef75f0c5b.png",VTC1 HD
 udp://@225.1.2.254:30120
