@@ -25,11 +25,6 @@ udp://@225.1.4.7:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc.png",VTV9 HD
 udp://@225.1.4.8:30120
 
-#EXTINF:-1  group-logo="https://i.upanh.org/2023/04/18/thetheofd5b51f3eb8792c7.png" tvg-id="polsat.pl" tvg-name="polsatsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Polsat_Sport_Logo.png" group-title="Kênh Thể Thao",Polsat Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://webudit.cdndac.lol/lb/84/index.m3u8
-
 #-------------------VTC/VOV-------------------#
 #EXTINF:-1 group-title="VTC" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822333227/695ef75f0c5b.png",VTC1 HD
 udp://@225.1.2.254:30120
@@ -161,10 +156,9 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueaxnblack/Manifest.mpd
 udp://@225.1.4.205:30120
 
 #EXTINF:-1 tvg-id="cinemax" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinemax.png", CINEMAX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referer=https://tvcanale.live/
-https://cnl.cdndac.lol/cnl/84/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://webudit.cdndac.lol/lb/84/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -172,31 +166,48 @@ https://cnl.cdndac.lol/cnl/84/tracks-v1a1/mono.m3u8
 #https://m7rovideolive.solocoo.tv/blueskylive2dash/bluecinemaxro/Manifest.mpd
 
 #EXTINF:-1 tvg-id="cinemax2" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Cinemax-2.png", CINEMAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://webudit.cdndac.lol/lb/85/index.m3u8
+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d0f7c3a252d44558ad8b6fd3f0f1721:54fd50abfcf29d9bae9b2c889cd82ad0
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluecinemax2ro/Manifest.mpd
+#https://m7rovideolive.solocoo.tv/blueskylive2dash/bluecinemax2ro/Manifest.mpd
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
 udp://@225.1.4.90:30120
 
 #EXTINF:-1 tvg-id="hbo" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hbo-logo.png", HBO RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://cnl.cdndac.lol/cnl/14/tracks-v1a1/mono.m3u8
+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ce840ae4c7244888b56def83d9d6909:5da720d74289f4b96dcbffac3912d485
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehboro/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.pw/key.php?keyid=0ce840ae4c7244888b56def83d9d6909&key=5da720d74289f4b96dcbffac3912d485
+#https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehboro/Manifest.mpd
 
 #EXTINF:-1 tvg-id="hbo2" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO2_b_p.png", HBO2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://cnl.cdndac.lol/cnl/15/tracks-v1a1/mono.m3u8
+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37899bd20f1745f4961a1ca82146cb71:bfdb5a62f5d3bf59ff2515c49a968a51
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehbo2ro/Manifest.mpd
+#https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehbo2ro/Manifest.mpd
 
 #EXTINF:-1 tvg-id="hbo3" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO3_logo.png", HBO3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://cnl.cdndac.lol/cnl/16/tracks-v1a1/mono.m3u8
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=263574912fed4250b4c6c75f373dc789:59b24e1f1d0b04726f1301ded653cc27
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehbo3ro/Manifest.mpd
+#https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehbo3ro/Manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
