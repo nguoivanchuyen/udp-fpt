@@ -207,6 +207,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd 
 
+#EXTINF:-1 tvg-id="tv1000" group-title="Quốc Tế" tvg-logo="https://www.pngkit.com/png/full/278-2782863_tv1000-logo-tv-1000.png", TV1000
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3fbfaacff9f47e1a808d77982389ebf:9e9f13b11f874287406e48572a75dac3
+https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetv1000ro/Manifest.mpd
+
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="cinemachimax.id" tvg-logo="https://i.imgur.com/ATl3CDZ.png",Cinemachi Max 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
