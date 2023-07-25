@@ -152,10 +152,13 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueaxnblack/Manifest.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
 udp://@225.1.4.205:30120
 #EXTINF:-1 tvg-id="cinemax" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinemax.png", CINEMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referer=https://tvcanale.live/
+https://cnl.cdndac.lol/cnl/84/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=36e9e318eb5d44058b75fb18db2d6fe9:9fe303835433d15ab2f1680c3a175f93
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluecinemaxro/Manifest.mpd
+#https://m7rovideolive.solocoo.tv/blueskylive2dash/bluecinemaxro/Manifest.mpd
 
 #EXTINF:-1 tvg-id="cinemax2" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Cinemax-2.png", CINEMAX 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
