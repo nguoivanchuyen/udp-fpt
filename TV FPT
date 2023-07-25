@@ -139,9 +139,18 @@ udp://@225.1.4.36:30120
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetvr1ro/Manifest.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
 udp://@225.1.4.9:30120
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_white_logo.png",AXN WHITE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a771ea4c4844eb80315f36f5f9bbd6:255a11abd17c796a34ee42fa597ca404
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueaxnwhite/Manifest.mpd
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_black_logo.png",AXN BLACK
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa5f3ceae25478d8d67e81f059917f7:8f05bbae74f58f272e168f53e285617b
+https://m7rovideolive.solocoo.tv/blueskylivedash/blueaxnblack/Manifest.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
 udp://@225.1.4.205:30120
-
 #EXTINF:-1 tvg-id="cinemax" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinemax.png", CINEMAX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
