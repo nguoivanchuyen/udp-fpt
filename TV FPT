@@ -278,10 +278,21 @@ https://iplogger.com/22N2T7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://iplogger.com/22J3T7
+#EXTINF:-1 tvg-id="history" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/history-logo.png", HISTORY
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8dbaab7ba45446f989e9b2967a00900:621c034f4448e604d7dae5743693b3a6
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluehistoryro/Manifest.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="history" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-1 tvg-id="disconveryscience" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/Discovery_Science_logo.png" group-title="Quốc Tế", Discovery SCIENCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://tvonline123.com/
+https://main.tvhdonline.info:443/play/juMIaHKnoxeCs6iM6-tl8nT6OnD4vubBvNm8e3NqJgA/.m3u8
+
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e.png" tvg-id="musicbox", Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/224UR7
