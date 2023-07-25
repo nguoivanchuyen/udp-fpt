@@ -268,6 +268,7 @@ http://gg.gg/15tmw2
 http://gg.gg/15tmw5
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e.png" tvg-id="drfithd", Dr.Fit
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referer=http://sctvonline.vn
 http://gg.gg/15tmwm
 #EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch212_160_115", DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
