@@ -222,6 +222,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi
 #KODIPROP:inputstream.adaptive.license_key=e3fbfaacff9f47e1a808d77982389ebf:9e9f13b11f874287406e48572a75dac3
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetv1000ro/Manifest.mpd
 
+#EXTINF:-1 tvg-id="procinema" tvg-logo="https://tvron.net/static/canale/512/pro-cinema.png" group-title="Quốc Tế", Pro-Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://tvonline123.com/
+https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/yp7iUsYMWl2vflxWd93oiQ==,1690280263/channels/cme-ro-procinema/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
+
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="cinemachimax.id" tvg-logo="https://i.imgur.com/ATl3CDZ.png",Cinemachi Max 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
