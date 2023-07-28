@@ -265,7 +265,8 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetv1000ro/Manifest.mpd
 #EXTINF:-1 tvg-id="procinema" tvg-logo="https://tvron.net/static/canale/512/pro-cinema.png" group-title="Quốc Tế", Pro-Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://tvonline123.com/
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
+https://main.tvhdonline.info/play/JX5FUsQPaST_Lk2e_iHN5kQMd_IR-aVSkOtgExujV6k/.m3u8
+#https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
 #https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/SjT9py8KQoYO7M_fBl1HaQ==,1690532177/channels/cme-ro-procinema/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=1
 
 #EXTINF:-1 tvg-id="hbo2" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/film_cafe_hu.png", Film CAFE
