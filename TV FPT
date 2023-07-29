@@ -339,10 +339,14 @@ http://gg.gg/15tmwm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DGTM+5eOc5C9MzRAdUkq7A", "kid":"U7JvkErgOiC1ZHfPucXcog" } ], "type":"temporary" }
 https://iplogger.com/22DXR7
+
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279.png", HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://ddy1.cdndac.lol/ddy1/premium382/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvonline123.com/
-https://main.tvhdonline.info:443/play/K4y7mzMKrJUPeBwo2h98L-AjIrsrBnv8RpCSP9Lm5Bs/.m3u8
+#https://main.tvhdonline.info:443/play/K4y7mzMKrJUPeBwo2h98L-AjIrsrBnv8RpCSP9Lm5Bs/.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
