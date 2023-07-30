@@ -395,7 +395,6 @@ http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Quốc Tế", THU NGHIEM
-#EXTVLCOPT:http-referrer=https://onlinetv.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 https://fr2.streamsport.net:8080/hls/shok_1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDI6NDg6NTMgUE0maGFzaF92YWx1ZT0wam9KRXdJVFBORGhqK2ZHaHBxSHNRPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
