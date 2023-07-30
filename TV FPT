@@ -149,38 +149,19 @@ udp://@225.1.4.36:30120
 #KODIPROP:inputstream.adaptive.license_key=ac1d869a9eda409e9ee1547d372f14f0:0906cd2637555a24df53ec28e0f99ac2
 #https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetvr1ro/Manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTINF:-1 tvg-id="UniversalCinema.es" tvg-logo="https://i.postimg.cc/XvY0j3x1/20230526-203916.png" group-title="Quốc Tế",Universal Cinema
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTINF:-1 tvg-id="UniversalComedy.es" tvg-logo="https://i.postimg.cc/XvY0j3x1/20230526-203916.png" group-title="Quốc Tế",Universal Comedy
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTINF:-1 tvg-id="UniversalCrime.es" tvg-logo="https://i.postimg.cc/XvY0j3x1/20230526-203916.png" group-title="Quốc Tế",Universal Crime
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTINF:-1 tvg-id="UniversalPremier.es" tvg-logo="https://i.postimg.cc/XvY0j3x1/20230526-203916.png" group-title="Quốc Tế",Universal Premier
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTINF:-1 tvg-id="UniversalReality.es" tvg-logo="https://i.postimg.cc/XvY0j3x1/20230526-203916.png" group-title="Quốc Tế",Universal Reality
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
 udp://@225.1.4.9:30120
+
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
+udp://@225.1.4.205:30120
+
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
+udp://@225.1.4.90:30120
+
+
 
 #EXTINF:-1 tvg-id="axn" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_hu_logo.png", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -210,14 +191,6 @@ https://cnl.cdndac.lol/cnl/27/tracks-v1a1/mono.m3u8
 #https://m7rovideolive.solocoo.tv/blueskylivedash/blueaxnblack/Manifest.mpd
 
 
-
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
-udp://@225.1.4.205:30120
-
-
-
-
-
 #EXTINF:-1 tvg-id="cinemax" group-title="Quốc Tế" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Cinemax.png", CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
@@ -237,14 +210,6 @@ https://webudit.cdndac.lol/lb/85/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d0f7c3a252d44558ad8b6fd3f0f1721:54fd50abfcf29d9bae9b2c889cd82ad0
 #https://m7rovideolive.solocoo.tv/blueskylive2dash/bluecinemax2ro/Manifest.mpd
-
-
-
-
-
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
-udp://@225.1.4.90:30120
-
 
 
 
