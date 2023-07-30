@@ -143,7 +143,7 @@ https://iplogger.com/22XaT7
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
 #EXTINF:-1 tvg-id="53" tvg-logo="https://i.postimg.cc/W3QRwZVx/20230526-203849.png" group-title="Quốc Tế",Discovery Kids
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+#https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480.png",Asian Food Network 
