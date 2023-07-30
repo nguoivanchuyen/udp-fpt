@@ -371,6 +371,39 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DGTM+5eOc5C9MzRAdUkq7A", "kid":"U7JvkErgOiC1ZHfPucXcog" } ], "type":"temporary" }
 https://iplogger.com/22DXR7
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Кино",VIP Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Кино",VIP Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Кино",VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Кино",VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" group-title="Кино",VIP Comedy
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" group-title="Кино",VIP Comedy
+http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png"  group-title="Кино",VIP Serial
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png"  group-title="Кино",VIP Serial
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://persik.tv/images/channels/logos/10237.png",TV1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",TV1000 HD
+http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV1000 Action
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279.png", HGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
