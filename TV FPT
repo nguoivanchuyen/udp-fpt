@@ -383,27 +383,21 @@ https://iplogger.com/22DXR7
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Quốc Tế",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" group-title="Quốc Tế",VIP Megahit
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Quốc Tế",VIP Premiere
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" group-title="Quốc Tế",VIP Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" group-title="Quốc Tế",VIP Comedy
 https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" group-title="Quốc Tế",VIP Comedy
-http://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png"  group-title="Quốc Tế",VIP Serial
 https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png"  group-title="Quốc Tế",VIP Serial
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="http://persik.tv/images/channels/logos/10237.png",TV1000
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Quốc Tế",TV1000 HD
 http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Quốc Tế",TV1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Quốc Tế", THU NGHIEM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://onlinetv.one/
+https://fr2.streamsport.net:8080/hls/shok_1/chunks.m3u8?sessionid=4395184&amp;wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDI6MzU6MTIgUE0maGFzaF92YWx1ZT1iSzFhM2x2NEdMTjAvU2lJbzZiNUJRPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 
 
