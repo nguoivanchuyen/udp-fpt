@@ -95,12 +95,6 @@ udp://@225.1.4.211:30120
 
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a79868a7cbc4472b789e342b2473bf9:86c9a57a279ba2c75971a62415c17a4b
-#EXTINF:-1 group-title="Kplus" tvg-id="ksport2hd" tvg-logo="",K+Sport2 HD
-https://72918341.r.vtvcdn.com/manifest/k-plus-pc/master.mpd
-
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
 udp://@225.1.2.169:30120
@@ -403,9 +397,6 @@ http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Quốc Tế",TV1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Quốc Tế", THU NGHIEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-https://fr2.streamsport.net:8080/hls/shok_1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDI6NDg6NTMgUE0maGFzaF92YWx1ZT0wam9KRXdJVFBORGhqK2ZHaHBxSHNRPT0mdmFsaWRtaW51dGVzPTE0NDAwMDAwMDAw
 
 
 
