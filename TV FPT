@@ -31,28 +31,28 @@ udp://@225.1.4.8:30120
 
 #-------------------VTC/VOV-------------------#
 
-#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/fb287ae7a7ad%5B1%5D.png", K CINE
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/cine.png", K CINE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69773e7daf8510a1e2d287a8c603d320:92d8223a2ccc497d7cf1975ba1232b68
 http://gg.gg/kphim
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/ce754194ea8f%5B1%5D.png", K LIFE
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/life.png", K LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"q1DW4xxIrQ/ZVmTD83GrnA", "kid":"KeIrmqPHNE4yhooVj9EzcQ" } ], "type":"temporary" }
 http://gg.gg/pluslife
-#EXTINF:-1 tvg-id="ksport1hd" logo="https://github.com/nguoivanchuyen/logo/blob/main/00ec39651e4c%5B1%5D.png", K SPORT 1
+#EXTINF:-1 tvg-id="ksport1hd" logo="https://github.com/nguoivanchuyen/logo/blob/main/sport1.png", K SPORT 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20400c43d76a28255e95de00ecae8f4f:0b03f07b3dfb72d6315f0fc66b52147c
 http://gg.gg/kthethao1
-#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/6226fc34a55f%5B1%5D.png", K SPORT 2
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/sport2.png", K SPORT 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=119dc18e240da110ed8389ece4fd0c45:fe646e3efd637c6f88fe442f6930e619
 http://gg.gg/kthethao2
-#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/c14d6e90c65a%5B1%5D.png", K Kids
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/kids.png", K Kids
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e66d35777819069b5d884e2bc85eb04e:e89688b2c185a1c967bc2e7d1953134b
