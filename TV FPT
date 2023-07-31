@@ -401,7 +401,7 @@ http://live.cooltv.top/tv/lotus.php
 #http://103.112.191.9:880/LAOSAT1069.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch139_160_115", SCM
 http://103.112.191.9:880/LAOSAT1082.m3u8
-#EXTINF:-1 tvg-logo="http://www.lstime.com.tw/ls_pages/pages/img/img_logo.png", LS Time Movie
+#EXTINF:-1 tvg-logo="http://www.lstime.com.tw/ls_pages/pages/img/img_logo.png", LS Times TV
 http://103.112.191.9:880/LAOSAT1084.m3u8
 
 
