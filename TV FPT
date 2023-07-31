@@ -31,6 +31,36 @@ udp://@225.1.4.8:30120
 
 #-------------------VTC/VOV-------------------#
 
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/fb287ae7a7ad%5B1%5D.png", K CINE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://gg.gg/15x45a
+http://gg.gg/kphim
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/ce754194ea8f%5B1%5D.png", K LIFE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://gg.gg/15x460
+http://gg.gg/pluslife
+#EXTINF:-1 tvg-id="ksport1hd" logo="https://github.com/nguoivanchuyen/logo/blob/main/00ec39651e4c%5B1%5D.png", K SPORT 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://gg.gg/15x46n
+http://gg.gg/kthethao1
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/6226fc34a55f%5B1%5D.png", K SPORT 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://gg.gg/15x476
+http://gg.gg/kthethao2
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/c14d6e90c65a%5B1%5D.png", K Kids
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://gg.gg/15x47z
+http://gg.gg/ktreem
+
+
+
+#-------------------VTC/VOV-------------------#
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822333227/695ef75f0c5b.png",VTC1 HD
 udp://@225.1.2.254:30120
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822508145/db329b99b111.png",VTC2
