@@ -396,6 +396,14 @@ https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
 http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Quốc Tế",TV1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/79/84/48/ycp.png" group-title="Quốc Tế",Viasat Sport HD
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/80/00/03/djf.png" group-title="Quốc Tế",Viasat Explore HD
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="Quốc Tế",Viasat History HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/79/84/30/9rl.png" group-title="Quốc Tế",Viasat Nature HD
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png" group-title="Quốc Tế",Матч! Футбол 1 HD
 rtmp://178.159.112.198//match_futbol_1_hd
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png" group-title="Quốc Tế",Матч! Футбол 2 HD
