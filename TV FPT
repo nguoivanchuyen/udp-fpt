@@ -31,31 +31,31 @@ udp://@225.1.4.8:30120
 
 #-------------------VTC/VOV-------------------#
 
-#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/cine.png", K CINE
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad.png", K CINE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/xfbpj7ykqsc2pvjm0fw8y/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=nzzxy3pdbk52iahjgxlcrndf9&mykplus&id=kcine
 http://gg.gg/kphim
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/life.png", K LIFE
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/30/04/1680124422316/ce754194ea8f.png", K LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"q1DW4xxIrQ/ZVmTD83GrnA", "kid":"KeIrmqPHNE4yhooVj9EzcQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/qv5peeqosyx1u4mhid3qg/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=n1ckmhwyj7h3gxgjyq9xnkgiw&mykplus&id=klife
 http://gg.gg/pluslife
-#EXTINF:-1 tvg-id="ksport1hd" logo="https://github.com/nguoivanchuyen/logo/blob/main/sport1.png", K SPORT 1
+#EXTINF:-1 tvg-id="ksport1hd" logo="https://img-zlr1.tv360.vn/image1/2023/02/24/16/1677229856875/00ec39651e4c.png", K SPORT 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20400c43d76a28255e95de00ecae8f4f:0b03f07b3dfb72d6315f0fc66b52147c
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com//scl/fi/rf8wzhmnli5z52rrfbyth/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=5flwrfz5gkoi3lb1jthvv9kgf&mykplus&id=ksports1
 http://gg.gg/kthethao1
-#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/sport2.png", K SPORT 2
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f.png", K SPORT 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=119dc18e240da110ed8389ece4fd0c45:fe646e3efd637c6f88fe442f6930e619
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/ftqk4dar06k279ybn91iq/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=srmjegzonczwgpp7ci2sqcvl0&mykplus&id=ksports2
 http://gg.gg/kthethao2
-#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://github.com/nguoivanchuyen/logo/blob/main/kids.png", K Kids
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K Kids
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e66d35777819069b5d884e2bc85eb04e:e89688b2c185a1c967bc2e7d1953134b
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/0q9gn3vmksdn33jk6ap54/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=bv71hnts841p48gnj6rrl3ml6&mykplus&id=kkids
 http://gg.gg/ktreem
 
 
