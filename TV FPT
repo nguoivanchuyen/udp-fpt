@@ -517,7 +517,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 http://tvgo.my.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/BabyTV.png/1200px-BabyTV.png",BabyTV
+#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/BabyTV.png/1200px-BabyTV.png",BabyTV
 udp://@225.1.4.207:30120
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/CBeebies_II.png",BBC CBeeBies
 udp://@225.1.4.29:30120
@@ -533,7 +533,7 @@ udp://@225.1.4.18:30120
 udp://@225.1.4.16:30120
 #EXTINF:-1 ,CARTOON NETWORK HD 
 udp://@225.1.4.13:30120
-#EXTINF:-1 tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png",Cinema World 
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png",Cinema World 
 udp://@225.1.4.15:30120
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png",CNA 
 udp://@225.1.4.76:30120
@@ -571,7 +571,7 @@ udp://@225.1.4.210:30120
 udp://@225.1.4.26:30120
 #EXTINF:-1 ,TV5 MONDE ASIE (HD 4Mbps)
 udp://@225.1.4.213:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6.png",WBTV HD
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6.png", Warner TV HD
 udp://@225.1.4.14:30120
 
 
