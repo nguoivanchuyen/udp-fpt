@@ -506,6 +506,39 @@ rtmp://178.159.112.198//match_futbol_3_hd
 
 
 
+#EXTINF:-1 tvg-id="VSportPremium.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/vsport
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="VSportExtra.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Xtra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/vsport
+https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_viasat_sport_extra_se_hd_live/cd_tsat_viasat_sport_extra_se_hd_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="VSportFootball.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/vsport
+https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="VSport1Sweden.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sportkanalen.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", Sport Kanalen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qeDs6mQJWcauyQSh80k0pQ","k":"KE6o5foN5LyQwXwhFI296g"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d466954df/manifest.mpd
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279.png", HGTV
