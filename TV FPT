@@ -575,6 +575,25 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.
 
 
 
+#EXTINF:-1 tvg-id="EuroSport1.es" tvg-logo="https://i.postimg.cc/nzrK86Wn/20220927-071300.png",Eurosport 1 ES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+
+
+
+#EXTINF:-1 tvg-id="EuroSport2.es" tvg-logo="https://i.postimg.cc/nzrK86Wn/20220927-071300.png",Eurosport 2 ES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279.png", HGTV
