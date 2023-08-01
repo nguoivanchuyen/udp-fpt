@@ -199,7 +199,7 @@ udp://@225.1.4.36:30120
 #https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetvr1ro/Manifest.mpd
 
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
 udp://@225.1.4.9:30120
 
 
@@ -207,7 +207,7 @@ udp://@225.1.4.9:30120
 udp://@225.1.4.205:30120
 
 
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png",HBO 
 udp://@225.1.4.90:30120
 
 
