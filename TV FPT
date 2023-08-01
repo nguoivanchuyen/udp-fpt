@@ -506,49 +506,53 @@ rtmp://178.159.112.198//match_futbol_3_hd
 
 
 
-#EXTINF:-1 group-title="3. SPORTS" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F527%2Fviasat-sport-finland-1.png",V SPORT FOOTBALL
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F527%2Fviasat-sport-finland-1.png",V SPORT FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
 
-#EXTINF:-1 group-title="3. SPORTS" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_premium",V SPORT PREMIUM
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_premium",V SPORT PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
 https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
 
-#EXTINF:-1 group-title="3. SPORTS" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_v_sport_extra_hd.png",V SPORT EXTRA
+#EXTINF:-1 tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_v_sport_extra_hd.png",V SPORT EXTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
 https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="VSportPremium.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Premium
+#EXTINF:-1 tvg-id="VSportPremium.se" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_v_sport_premium_hd-1920x729.png", V Sport Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/vsport
 #https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_sport_premium_live/cdgo_viasat_sport_premium_live.isml/playlist.mpd
 
-#EXTINF:-1 tvg-id="VSportExtra.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Xtra
+
+#EXTINF:-1 tvg-id="VSportExtra.se" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_v_sport_extra_hd-1920x728.png", V Sport Xtra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/vsport
 #https://cd-stream-live.telenorcdn.net/cdgo/cd_tsat_viasat_sport_extra_se_hd_live/cd_tsat_viasat_sport_extra_se_hd_live.isml/playlist.mpd
 
-#EXTINF:-1 tvg-id="VSportFootball.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport Football
+
+#EXTINF:-1 tvg-id="VSportFootball.se" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_v_sport_football_hd-1920x698.png", V Sport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/vsport
 #https://cd-stream-live.telenorcdn.net/cdgo/cdgo_viasat_fotboll_live/cdgo_viasat_fotboll_live.isml/playlist.mpd
 
-#EXTINF:-1 tvg-id="VSport1Sweden.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", V Sport 1
+
+#EXTINF:-1 tvg-id="VSport1Sweden.se" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_v_sport_1_hd-1920x498.png", V Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
 https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
 
-#EXTINF:-1 tvg-id="Sportkanalen.se" tvg-logo="https://i.postimg.cc/RZ1C1JbZ/20230118-165604.png", Sport Kanalen
+
+#EXTINF:-1 tvg-id="Sportkanalen.se" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/2sOeuU8aiMsyyTDjFjIv5F/d3cec07b5af704c65279ff8b146248e7/sportkanalen.png", Sport Kanalen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
