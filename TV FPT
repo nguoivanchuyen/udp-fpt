@@ -203,7 +203,7 @@ udp://@225.1.4.36:30120
 udp://@225.1.4.9:30120
 
 
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/03/04/14/1646379975451/4829b770ef31.png",CINEMAX HD
 udp://@225.1.4.205:30120
 
 
