@@ -132,6 +132,13 @@ udp://@225.1.4.211:30120
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRNXCQPY/20221026-001629.png" group-title="TV Dunia",MY - Boo HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/astro.php?id=2407
+http://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
+
+
+
 
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
