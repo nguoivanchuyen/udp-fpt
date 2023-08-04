@@ -172,59 +172,6 @@ udp://@225.1.4.219:30120
 
 #-------------------Quốc tế-------------------#
 
-
-#EXTINF:-1  , CINEMAX
-https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9DM9-w5wjsmGW5pv8qjgaA","kid":"fDjZMQ08W0ajejm77G3Wig"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",Arirang
-udp://@225.1.1.201:30120
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch319_160_115",CNBC
-udp://@225.1.1.227:30120
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png",ABC AUSTRALIA 
-udp://@225.1.4.19:30120
-#EXTINF:-1 ,Animal Planet 
-udp://@225.1.4.209:30120
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_160_115",Animax HD
-udp://@225.1.4.168:30120
-
-
-
-#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch445_160_115" catchup="append" catchup-days="5" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
-https://iplogger.com/22XaT7
-
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
-#EXTINF:-1 tvg-id="53" tvg-logo="https://i.postimg.cc/W3QRwZVx/20230526-203849.png", Discovery Kids
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-#https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
-
-
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480.png",Asian Food Network 
-udp://@225.1.4.36:30120
-
-#EXTINF:-1,Tvr 1
-#KODIPROP:inputstream.adaptive.license_type=clear
-#KODIPROP:inputstream.adaptive.license_key=ac1d869a9eda409e9ee1547d372f14f0:0906cd2637555a24df53ec28e0f99ac2
-#https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetvr1ro/Manifest.mpd
-
-
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2.png",AXN 
 udp://@225.1.4.9:30120
 
@@ -365,14 +312,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family HD", HBO Family HD
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png", Boo HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/astro.php?id=2407
-#http://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
 
 
 
@@ -545,6 +484,58 @@ rtmp://178.159.112.198//match_futbol_3_hd
 
 
 
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",Arirang
+udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch319_160_115",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png",ABC AUSTRALIA 
+udp://@225.1.4.19:30120
+#EXTINF:-1 ,Animal Planet 
+udp://@225.1.4.209:30120
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_160_115",Animax HD
+udp://@225.1.4.168:30120
+
+
+
+#EXTINF:-1 tvg-id="boomerang" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch445_160_115" catchup="append" catchup-days="5" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Boomerang HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
+https://iplogger.com/22XaT7
+
+
+
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTINF:-1 tvg-id="53" tvg-logo="https://i.postimg.cc/W3QRwZVx/20230526-203849.png", Discovery Kids
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480.png",Asian Food Network 
+udp://@225.1.4.36:30120
+
+#EXTINF:-1,Tvr 1
+#KODIPROP:inputstream.adaptive.license_type=clear
+#KODIPROP:inputstream.adaptive.license_key=ac1d869a9eda409e9ee1547d372f14f0:0906cd2637555a24df53ec28e0f99ac2
+#https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetvr1ro/Manifest.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png", Boo HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/astro.php?id=2407
+#http://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F527%2Fviasat-sport-finland-1.png",V SPORT FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -681,128 +672,154 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-026/stream.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MILAN TV
+#EXTINF:-1  , DAZN MILAN TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", ZONA DAZN
+#EXTINF:-1  , ZONA DAZN
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN NFL NETWORK
+#EXTINF:-1 , DAZN NFL NETWORK
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-023/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EUROSPORTS 2
+#EXTINF:-1  , DAZN EUROSPORTS 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EUROSPORTS 1
+#EXTINF:-1  , DAZN EUROSPORTS 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN EVENTOS TV
+#EXTINF:-1  , DAZN EVENTOS TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN LFCTV
+#EXTINF:-1 , DAZN LFCTV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
-#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN NBA TV
+#EXTINF:-1 , DAZN NBA TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN REDBULL TV
+#EXTINF:-1  , DAZN REDBULL TV
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-036/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN MOTO GP
+#EXTINF:-1  , DAZN MOTO GP
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DANZ LA LIGA
+#EXTINF:-1  , DANZ LA LIGA
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN 2
+#EXTINF:-1  , DAZN 2
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN 1
+#EXTINF:-1 , DAZN 1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct" group-title="Lista 27 solo OTT",  "k":"DWcSvyqE7cyT0AGpYT9v7A" group-title="Lista 27 solo OTT",  "kid":"z7XitzvvTzyHjyWrhqdFHw" } ] group-title="Lista 27 solo OTT",  "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://drm.mammothtv.my.id/clearkey/get.php?name=dazn-linear
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1  group-title="Lista 27 solo OTT", DAZN F1
+#EXTINF:-1  , DAZN F1
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
 
