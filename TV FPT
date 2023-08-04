@@ -14,17 +14,17 @@ udp://@225.1.4.3:30120
 udp://@225.1.4.4:30120
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d.png",VTV5 HD
 udp://@225.1.4.5:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01.png",VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01.png",VTV Cần Thơ
 udp://@225.1.4.108:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515518939/7cb734c81a19.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515518939/7cb734c81a19.png",VTV5 Tây Nam Bộ
 udp://@225.1.4.184:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515444588/34459b1f8ea5.png",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn"  tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515444588/34459b1f8ea5.png",VTV5 Tây Nguyên
 udp://@225.1.4.179:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443.png",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443.png",VTV7 HD
 udp://@225.1.4.201:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000.png",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000.png",VTV8 HD
 udp://@225.1.4.7:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc.png",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc.png",VTV9 HD
 udp://@225.1.4.8:30120
 
 
@@ -81,27 +81,27 @@ udp://@225.1.2.202:30120
 udp://@225.1.4.42:30120
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732730533/1092f3d58332.png",VTC4 HD
 udp://@225.1.4.43:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823248488/0bf5d1addb2a.png",VTC5
+#EXTINF:-1 tvg-id="vtc5hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823248488/0bf5d1addb2a.png",VTC5
 udp://@225.1.2.199:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823308298/a9a9fd0966fd.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823308298/a9a9fd0966fd.png",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732855913/5a32f3432acc.png",VTC7
+#EXTINF:-1 tvg-id="vtc7hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732855913/5a32f3432acc.png",VTC7
 udp://@225.1.2.197:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822237317/7e3263a08d04.png",VTC8
+#EXTINF:-1 tvg-id="vtc8"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822237317/7e3263a08d04.png",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823388377/3c41260460a0.png",VTC9 HD
+#EXTINF:-1 tvg-id="vtc9hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823388377/3c41260460a0.png",VTC9 HD
 udp://@225.1.4.48:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822325917/961e32e809ff.png",VTC10 HD
+#EXTINF:-1 tvg-id="vtc10" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822325917/961e32e809ff.png",VTC10 HD
 udp://@225.1.4.49:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823506689/4deaf68ae9bc.png",VTC11
+#EXTINF:-1 tvg-id="vtc11" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823506689/4deaf68ae9bc.png",VTC11
 udp://@225.1.2.193:30120
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/VTC12_2018.png/revision/latest?cb=20220204073936&path-prefix=vi",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/15/16897548183/62ca7c8a155e.png",VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/19/15/16897548183/62ca7c8a155e.png",VTC13 HD
 udp://@225.1.4.52:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822452264/9aee0be36d19.png",VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd"  tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822452264/9aee0be36d19.png",VTC14 HD
 udp://@225.1.4.53:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822490601/483ca340a5e6.png",VTC16 HD
+#EXTINF:-1 tvg-id="vtc16" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822490601/483ca340a5e6.png",VTC16 HD
 udp://@225.1.4.54:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 udp://@225.1.2.171:30120
