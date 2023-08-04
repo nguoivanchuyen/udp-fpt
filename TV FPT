@@ -172,6 +172,20 @@ udp://@225.1.4.219:30120
 
 #-------------------Quốc tế-------------------#
 
+
+#EXTINF:-1  group-title="Lista 27 solo OTT", CINEMAX
+https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "k":"9DM9-w5wjsmGW5pv8qjgaA" group-title="Lista 27 solo OTT", "kid":"fDjZMQ08W0ajejm77G3Wig"}] group-title="Lista 27 solo OTT", "type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",Arirang
 udp://@225.1.1.201:30120
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch319_160_115",CNBC
