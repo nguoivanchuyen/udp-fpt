@@ -240,7 +240,7 @@ https://webudit.cdndac.lol/lb/85/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/s1141/HBO-plus-2019.png", HBO Plus
+#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embedflix.net/
 https://hls.embedflix.net/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgNDo0ODoxOCBBTSZoYXNoX3ZhbHVlPWhYM2tJbHowM3hvenRmelZZQzltN3c9PSZ2YWxpZG1pbnV0ZXM9MTAw
@@ -248,7 +248,7 @@ https://hls.embedflix.net/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 
 
 
-#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO Extreme
+#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://i.imgur.com/Wz3WemY.png", HBO Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playertv.net/
 https://server101.shop/hbo-xtreme/index.m3u8?token=bb549f3e7d951a17d5c56f29d0aa1264fc4b5f10-49f5611260f7c111f358f5e11f7908ed-1691214731-1691211131&remote=null
