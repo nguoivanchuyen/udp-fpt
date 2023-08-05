@@ -248,6 +248,12 @@ https://hls.embedflix.net/p2p/hboplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 
 
 
+#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playertv.net/
+https://server101.shop/hbo-xtreme/index.m3u8?token=bb549f3e7d951a17d5c56f29d0aa1264fc4b5f10-49f5611260f7c111f358f5e11f7908ed-1691214731-1691211131&remote=null
+
+
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hbo-logo.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
