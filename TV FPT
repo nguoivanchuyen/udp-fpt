@@ -243,7 +243,8 @@ https://webudit.cdndac.lol/lb/85/index.m3u8
 #EXTINF:-1 tvg-id="hboplus" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embedflix.net/
-https://hls.embedflix.net/p2p/hboplus/playlist.m3u8
+https://playertv.net/tv.php?c=cartoonito
+#https://hls.embedflix.net/p2p/hboplus/playlist.m3u8
 #https://hls.embedflix.net/p2p/discoveryinvesticacao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgNDoyODo1MCBBTSZoYXNoX3ZhbHVlPWhzc1pIZ3R4QVBNQjM5QlFscXAySHc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
 
