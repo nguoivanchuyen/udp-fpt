@@ -466,7 +466,13 @@ http://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/79/84/34/q25.png",TV1000 Action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/79/84/36/7vp.png",TV1000 РУССКОЕ
-https://tbs01-edge11.itdc.ge/tv1000rukino/tracks-v1a1/mono.m3u8
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#https://bl.uma.media/live/410336/HLS/410330_7/1/1/playlist.m3u8
+#https://bl.uma.media/live/410336/HLS/410331_7/1/1/playlist.m3u8
+#https://bl.uma.media/live/410336/HLS/410332_7/1/1/playlist.m3u8
+#https://bl.uma.media/live/410336/HLS/410333_7/1/1/playlist.m3u8
+#https://bl.uma.media/live/410336/HLS/410334_7/1/1/playlist.m3u8
+#https://tbs01-edge11.itdc.ge/tv1000rukino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/79/84/48/ycp.png",Viasat Sport HD
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/80/00/03/djf.png",Viasat Explore HD
