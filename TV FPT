@@ -846,7 +846,9 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
 
 
-
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/CCTV10.png/revision/latest/scale-to-width-down/1168?cb=20230513114816&path-prefix=vi", CCTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+http://123.125.172.130:808/hls/5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="hgtv" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279.png", HGTV
