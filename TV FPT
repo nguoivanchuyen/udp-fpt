@@ -348,21 +348,21 @@ https://cnl.cdndac.lol/cnl/41/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png",Cinemachi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-action.png",Cinemachi Action
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 
 
-#EXTINF:-1 tvg-id="cinemachimax.id" tvg-logo="https://i.imgur.com/ATl3CDZ.png",Cinemachi Max 
+#EXTINF:-1 tvg-id="cinemachimax.id" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png",Cinemachi Max 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd 
@@ -375,7 +375,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids
+#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png",Cinemachi Kids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
