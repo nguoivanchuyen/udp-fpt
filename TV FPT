@@ -35,7 +35,7 @@ udp://@225.1.4.8:30120
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l0b1d9HmcX9XKtAVudNCzA","kid":"DOlNfKTUz0VdGxqcYLwjjA"},{"kty":"oct","k":"ouUUk1UCIHRk3MyF29qwSA","kid":"VC1NfKTUz0VdGxqcYLwjjA"},{"kty":"oct","k":"B9jR7Q9sBSRWADPELgMo2A","kid":"YTGRraTUz0VdGxqcYLwjjA"},{"kty":"oct","k":"dGQ2YgXidhbYF3yWpmTaYQ","kid":"TT6RxfPUz0VdGxqcYLwjjA"}], "type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=69773e7daf8510a1e2d287a8c603d320:92d8223a2ccc497d7cf1975ba1232b68
 http://gg.gg/161bw1
 
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/xfbpj7ykqsc2pvjm0fw8y/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=nzzxy3pdbk52iahjgxlcrndf9&mykplus&id=kcine
