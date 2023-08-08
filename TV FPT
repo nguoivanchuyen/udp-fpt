@@ -33,6 +33,8 @@ udp://@225.1.4.8:30120
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad.png", K+ CINE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69773e7daf8510a1e2d287a8c603d320:92d8223a2ccc497d7cf1975ba1232b68
@@ -46,6 +48,8 @@ http://gg.gg/161bw1
 
 #EXTINF:-1 tvg-id="klifehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/30/04/1680124422316/ce754194ea8f.png", K+ LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/qv5peeqosyx1u4mhid3qg/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=n1ckmhwyj7h3gxgjyq9xnkgiw&mykplus&id=klife
 http://gg.gg/15zs0w
@@ -54,6 +58,8 @@ http://gg.gg/15zs0w
 
 
 #EXTINF:-1 tvg-id="ksport1hd" logo="https://img-zlr1.tv360.vn/image1/2023/02/24/16/1677229856875/00ec39651e4c.png", K+ SPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com//scl/fi/rf8wzhmnli5z52rrfbyth/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=5flwrfz5gkoi3lb1jthvv9kgf&mykplus&id=ksports1
@@ -62,6 +68,8 @@ http://gg.gg/kthethao1
 
 
 #EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f.png", K+ SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/ftqk4dar06k279ybn91iq/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=srmjegzonczwgpp7ci2sqcvl0&mykplus&id=ksports2
@@ -70,6 +78,8 @@ http://gg.gg/kthethao2
 
 
 #EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/0q9gn3vmksdn33jk6ap54/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=bv71hnts841p48gnj6rrl3ml6&mykplus&id=kkids
