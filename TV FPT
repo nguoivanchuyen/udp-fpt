@@ -29,7 +29,7 @@ udp://@225.1.4.8:30120
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🅺✚" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ Cine MyTV
+#EXTINF:-1 tvg-id="kcinehd" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ Cine MyTV
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
