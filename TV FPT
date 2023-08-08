@@ -31,7 +31,7 @@ udp://@225.1.4.8:30120
 
 #-------------------VTC/VOV-------------------#
 
-#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad.png",K+ Cine
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad.png",K+ CINE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -40,7 +40,7 @@ http://gg.gg/161c5v
 
 
 
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/30/04/1680124422316/ce754194ea8f.png",K+ Life
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/30/04/1680124422316/ce754194ea8f.png",K+ LIFE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -97,7 +97,7 @@ http://gg.gg/kthethao2
 
 
 
-#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ Kids
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ KIDS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
