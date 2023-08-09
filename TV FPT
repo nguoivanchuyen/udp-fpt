@@ -714,7 +714,7 @@ https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.
 
 
 
-#EXTINF:-1 tvg-id="EuroSport1.es" tvg-logo="https://i.postimg.cc/nzrK86Wn/20220927-071300.png",Eurosport 1 ES
+#EXTINF:-1 tvg-id="EuroSport1.es" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/Eurosport_2015_logo.png",Eurosport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -723,7 +723,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 
 
 
-#EXTINF:-1 tvg-id="EuroSport2.es" tvg-logo="https://i.postimg.cc/nzrK86Wn/20220927-071300.png",Eurosport 2 ES
+#EXTINF:-1 tvg-id="EuroSport2.es" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/Eurosport_2_2015_logo.png",Eurosport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
