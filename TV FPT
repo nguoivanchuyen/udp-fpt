@@ -29,6 +29,15 @@ udp://@225.1.4.8:30120
 
 
 
+
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://3y2573vrs1v239.dynamicrevival.net/
+https://83kqwfdgnstvts9c.cdnspectrum.net:8443/hls/iubkxytogk0uw.m3u8
+
+
+
 #-------------------VTC/VOV-------------------#
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad.png",K+ CINE
