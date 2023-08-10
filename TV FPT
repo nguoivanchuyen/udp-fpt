@@ -359,7 +359,7 @@ https://cnl.cdndac.lol/cnl/16/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO HIT(TH)" tvg-name="" tvg-logo="https://drive.google.com/uc?id=1KzW9-TQvZQb4w3GmJZVfXA-Ka09OiUun", HBO Hits (TH)
+#EXTINF:-1 tvg-id="HBO HIT(TH)" tvg-name="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/105.png", HBO Hits (TH)
 #EXTVLCOPT:http-referrer=https://series.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://2nud.short.gy/hbohitsth.m3u8
