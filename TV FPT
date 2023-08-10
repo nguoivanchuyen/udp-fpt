@@ -42,7 +42,7 @@ udp://@225.1.4.8:30120
 
 
 
-#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad.png",K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad.png",K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -52,7 +52,7 @@ http://gg.gg/161c5v
 
 
 
-#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/30/04/1680124422316/ce754194ea8f.png",K+ LIFE
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/30/04/1680124422316/ce754194ea8f.png",K+LIFE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -90,7 +90,7 @@ http://gg.gg/161c62
 
 
 
-#EXTINF:-1 tvg-id="ksport1hd" logo="https://img-zlr1.tv360.vn/image1/2023/02/24/16/1677229856875/00ec39651e4c.png", K+ SPORT 1
+#EXTINF:-1 tvg-id="ksport1hd" logo="https://img-zlr1.tv360.vn/image1/2023/02/24/16/1677229856875/00ec39651e4c.png", K+SPORT1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -101,7 +101,7 @@ http://gg.gg/kthethao1
 
 
 
-#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f.png", K+ SPORT 2
+#EXTINF:-1 tvg-id="ksport2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f.png", K+SPORT2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -112,7 +112,7 @@ http://gg.gg/kthethao2
 
 
 
-#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ KIDS
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -178,19 +178,19 @@ udp://@225.1.4.56:30120
 udp://@225.1.4.59:30120
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD
 udp://@225.1.4.11:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO 
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO 
 udp://@225.1.4.60:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống 
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://i.imgur.com/mvQ37T0.jpg",HTVC Du Lịch và Cuộc Sống 
 udp://@225.1.4.67:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc 
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://i.imgur.com/pQYcNMU.jpg",HTVC Ca Nhạc 
 udp://@225.1.4.223:30120
-#EXTINF:-1  tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình 
+#EXTINF:-1  tvg-id="htvcgiadinhhd" tvg-logo="https://i.imgur.com/tDOkgfV.jpg",HTVC Gia Đình 
 udp://@225.1.4.64:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ 
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://i.imgur.com/diEuUuw.jpg",HTVC Phụ Nữ 
 udp://@225.1.4.66:30120
-#EXTINF:-1 tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt 
+#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://imgur.com/LFL1x49.jpg",HTVC Thuần Việt 
 udp://@225.1.4.62:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ 
+#EXTINF:-1 tvg-id"htvcplushd" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ 
 udp://@225.1.4.91:30120
 
 
@@ -203,6 +203,7 @@ udp://@225.1.4.211:30120
 
 
 #-------------------Thiết yếu-------------------#
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
 udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 8Mbps)
