@@ -166,17 +166,17 @@ udp://@225.1.2.171:30120
 
 #-------------------HTV/HTVC-------------------#
 
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6.png",HTV1
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6.png",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://imgur.com/fd4tJg2.jpg",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
+#EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.imgur.com/Qe0DqXp.jpg",HTV Keys
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6.png",HTV2 Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6.png",HTV2 Vie Channel
 udp://@225.1.4.56:30120
-#EXTINF:-1 tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD
 udp://@225.1.4.59:30120
-#EXTINF:-1 tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD
 udp://@225.1.4.11:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfbVPVK.jpg",HTV THỂ THAO 
 udp://@225.1.4.60:30120
@@ -196,7 +196,7 @@ udp://@225.1.4.91:30120
 
 #-------------------SCTV-------------------#
 
-#EXTINF:-1 , SCTV6 (HD 4Mbps)
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/11/04/11/1667535115954/f66b7a793cbb.png", SCTV6 (HD 4Mbps)
 udp://@225.1.4.211:30120
 
 
