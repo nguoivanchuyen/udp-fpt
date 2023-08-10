@@ -32,7 +32,15 @@ udp://@225.1.4.8:30120
 
 
 
+
+
+
+
 #-------------------VTC/VOV-------------------#
+
+
+
+
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad.png",K+ CINE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -112,6 +120,12 @@ http://gg.gg/kthethao2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/0q9gn3vmksdn33jk6ap54/token=zcrcyc/WvN3f34nA2OrmjaGtr6SYmqSgqaDVmqSapqxfnqinopqUpg%3D%3D&time=1690096857?rlkey=bv71hnts841p48gnj6rrl3ml6&mykplus&id=kkids
 http://gg.gg/ktreem
+
+
+
+
+
+
 
 
 
