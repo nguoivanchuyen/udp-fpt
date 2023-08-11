@@ -28,7 +28,11 @@ udp://@225.1.4.7:30120
 udp://@225.1.4.8:30120
 
 
-
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6BoZZOlk8KZnaKamqKdlKJqXmJoZQ==&time=1691562160&mykplus&id=kcine
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 
 
@@ -722,7 +726,7 @@ https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4bff1522bd2d46
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png", Eleven 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://3y2573vrs1v239.dynamicrevival.net/
-https://83kqwfdgnstvts9c.cdnspectrum.net:8443/hls/iubkxytogk0uw.m3u8?s=4fjSUQM2Ynw2_MyMBBJmQg&e=1691647685
+#https://83kqwfdgnstvts9c.cdnspectrum.net:8443/hls/iubkxytogk0uw.m3u8?s=4fjSUQM2Ynw2_MyMBBJmQg&e=1691647685
 
 
 
