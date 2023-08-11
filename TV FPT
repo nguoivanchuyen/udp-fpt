@@ -28,13 +28,6 @@ udp://@225.1.4.7:30120
 udp://@225.1.4.8:30120
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvY6BoZZOlk8KZnaKamqKdlKJqXmJoZQ==&time=1691562160&mykplus&id=kcine
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-
-
 
 
 
@@ -100,9 +93,11 @@ http://gg.gg/161c62
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=265d5eda1ff64566b6a1a63eab247f9d:b51f325a4a02d9887ca84eb0ebeb80cc
-http://gg.gg/162spq
+#KODIPROP:inputstream.adaptive.license_key=6b1da99a4fc691bf855f25a966a2199e:d91b44a908497aa039343060eb1c9169
+http://gg.gg/162t09
+#http://gg.gg/162spq
 #http://gg.gg/kthethao1
+
 
 
 
