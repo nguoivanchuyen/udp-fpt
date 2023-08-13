@@ -436,7 +436,7 @@ http://199.127.60.83:16043/
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png", AMC ROMANIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://cnl.cdndac.lol/cnl/40/tracks-v1a1/mono.m3u8
+https://cnl.cdndac.lol/cnl/40/playlist.m3u8
 
 
 
