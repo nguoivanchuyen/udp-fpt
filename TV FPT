@@ -32,7 +32,7 @@ udp://@225.1.4.8:30120
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="", TEST
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://series.live/
-http://cdn.m-fixer.net:8082/hbofamily/lq5Obrhrwg/playlist.m3u8
+#http://cdn.m-fixer.net:8082/hbofamily/lq5Obrhrwg/playlist.m3u8
 
 
 #-------------------VTC/VOV-------------------#
