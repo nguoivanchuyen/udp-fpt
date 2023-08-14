@@ -1022,11 +1022,14 @@ https://iplogger.com/22J3T7
 
 
 
-#EXTINF:-1 tvg-id="history" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/history-logo.png", HISTORY
+#EXTINF:-1 tvg-id="history" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/history-logo.png", HISTORY THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgMjoxNjozNyBBTSZoYXNoX3ZhbHVlPU1SQlp1K0FWOTBabzB5bFQ4emk2bGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF84NzEyNw==
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8dbaab7ba45446f989e9b2967a00900:621c034f4448e604d7dae5743693b3a6
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluehistoryro/Manifest.mpd
+#https://m7rovideolive.solocoo.tv/blueskylivedash/bluehistoryro/Manifest.mpd
 
 
 
