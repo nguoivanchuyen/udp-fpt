@@ -202,17 +202,17 @@ udp://@225.1.4.91:30120
 #-------------------SCTV-------------------#
 
 
-#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png", SCTV1 HD
+#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1b/SCTV1_HD.png/revision/latest?cb=20210711132850&path-prefix=vi", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 (HD 4Mbps)
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 HD
 udp://@225.1.4.211:30120
 
-#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://static-stage.tv24.vn/channel/110/logo26072108_sctv16-hd.png",SCTV16 HD
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://sctvonline.vn/
-
+#EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/SCTV16_logo.png/revision/latest/scale-to-width-down/1568?cb=20220223140716&path-prefix=vi",SCTV16 HD
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://sctvonline.vn/
+#https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 
 
 
