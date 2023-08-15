@@ -124,8 +124,9 @@ http://gg.gg/162sr2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a3a26fbab50823bcfbe7444aaaec8a0:1f691f08b06ee70eeba6566999722415
-http://gg.gg/ktreem
+#KODIPROP:inputstream.adaptive.license_key=http://gg.gg/1659z2
+http://gg.gg/1659ys
+#http://gg.gg/ktreem
 
 
 
