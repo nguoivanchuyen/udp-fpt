@@ -201,7 +201,7 @@ udp://@225.1.4.91:30120
 
 #-------------------SCTV-------------------#
 
-#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/11/04/11/1667535115954/f66b7a793cbb.png", SCTV6 (HD 4Mbps)
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 (HD 4Mbps)
 udp://@225.1.4.211:30120
 
 
@@ -255,8 +255,7 @@ udp://@225.1.4.90:30120
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 http://gg.gg/16598a
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-#http://gg.gg/hbothai
+
 
 
 
