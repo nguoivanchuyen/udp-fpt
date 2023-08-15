@@ -207,12 +207,12 @@ udp://@225.1.4.91:30120
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/1582?cb=20220223142109&path-prefix=vi", SCTV6 HD
 udp://@225.1.4.211:30120
 
 #EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a1/SCTV16_logo.png/revision/latest/scale-to-width-down/1568?cb=20220223140716&path-prefix=vi",SCTV16 HD
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://sctvonline.vn/
-#https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://sctvonline.vn/
+
 
 
 
