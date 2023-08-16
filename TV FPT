@@ -498,15 +498,6 @@ https://cnl.cdndac.lol/cnl/41/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="hbo2" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/film_cafe_hu.png", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball66s.com/
-https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmcb4rf66f
-
-
-
-
-
 #EXTINF:-1 tvg-id="cinemachiaction.id" tvg-logo="https://i.imgur.com/qEaI5Kd.png",Cinemachi Action 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
