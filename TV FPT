@@ -96,11 +96,12 @@ http://gg.gg/161c62
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=083f669ed0c943cbb0b047231f0dd06d:e82124f255a15588a15e0ffbbda3f392
-#http://gg.gg/163sz1
-
 #KODIPROP:inputstream.adaptive.license_key=http://wintv.fun/chuongduong.php/chuongduong.php?api=&key=ksport1hd.mpd
 http://gg.gg/167pjn
+
+#KODIPROP:inputstream.adaptive.license_key=083f669ed0c943cbb0b047231f0dd06d:e82124f255a15588a15e0ffbbda3f392
+#http://gg.gg/163sz1
+#http://gg.gg/167pjn
 #http://gg.gg/162t48
 #http://gg.gg/162t09
 #http://gg.gg/162spq
