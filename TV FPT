@@ -336,13 +336,6 @@ https://webudit.cdndac.lol/lb/85/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://208.115.225.174:14152
-#EXTVLCOPT:http-referrer=https://embedflix.net/
-#https://playertv.net/tv.php?c=cartoonito
-#https://hls.embedflix.net/p2p/hboplus/playlist.m3u8
-#https://hls.embedflix.net/p2p/discoveryinvesticacao/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgNDoyODo1MCBBTSZoYXNoX3ZhbHVlPWhzc1pIZ3R4QVBNQjM5QlFscXAySHc9PSZ2YWxpZG1pbnV0ZXM9MTAw
 
 
 
@@ -351,6 +344,18 @@ http://208.115.225.174:14152
 http://208.115.225.174:14165
 #EXTVLCOPT:http-referrer=https://playertv.net/
 #https://server101.shop/hbo-xtreme/index.m3u8?token=bb549f3e7d951a17d5c56f29d0aa1264fc4b5f10-49f5611260f7c111f358f5e11f7908ed-1691214731-1691211131&remote=null
+
+
+
+
+#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://208.115.225.174:14152
+#EXTVLCOPT:http-referrer=https://embedflix.net/
+#https://playertv.net/tv.php?c=cartoonito
+#https://hls.embedflix.net/p2p/hboplus/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hbo-logo.png", HBO
