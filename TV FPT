@@ -96,7 +96,7 @@ http://gg.gg/161c62
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VP_jLV2PVCr-jEHIOdC5QQ","k":"bvnukuDbf44AjVtYl8n2OA"},{"kty":"oct","kid":"nEPjLV2PVCr-jEHIOdC5QQ","k":"EYLrdpGSZBcJi-_tRQpCzQ"},{"kty":"oct","kid":"qUcnXl2PVCr-jEHIOdC5QQ","k":"crttRQYcf5fb3CPYxSrwzQ"},{"kty":"oct","kid":"lVQndqyPVCr-jEHIOdC5QQ","k":"1vVUEdy8tp0emjUd6f5qKA"}],"type":"temporary"} 
+#KODIPROP:inputstream.adaptive.license_key=54ffe32d5d8f542afe8c41c839d0b941:6ef9ee92e0db7f8e008d5b5897c9f638
 http://gg.gg/16a0a7
 #http://gg.gg/167pjn http://wintv.fun/chuongduong.php/chuongduong.php?api=&key=ksport1hd.mpd
 
@@ -129,7 +129,7 @@ http://gg.gg/162sr2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gO6hQKasNlWI9Ia5e_rOhA","k":"3Igi3sT-NktSAA-rLZMaHA"},{"kty":"oct","kid":"yDKhQKasNlWI9Ia5e_rOhA","k":"XicH8T1Tvrqg0zWn5nnMlA"},{"kty":"oct","kid":"1TblcaasNlWI9Ia5e_rOhA","k":"eG0kbqvXRxpPOeS6nD2WCw"},{"kty":"oct","kid":"wUPlifWsNlWI9Ia5e_rOhA","k":"IDOQyT02_mB-o78RJc32rw"}],"type":"temporary"} 
+#KODIPROP:inputstream.adaptive.license_key=c143e589f5ac365588f486b97bface84:203390c93d36fe607ea3bf1125cdf6af
 http://gg.gg/16a0ap
 #http://gg.gg/1659ys
 #http://gg.gg/ktreem http://wintv.fun/chuongduong.php/chuongduong.php?api=&key=kkidshd.mpd
