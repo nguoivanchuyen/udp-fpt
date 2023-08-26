@@ -209,10 +209,6 @@ udp://@225.1.4.91:30120
 
 #-------------------SCTV-------------------#
 
-#EXTINF:-1 tvg-id="sctv1hd" tvg-logo="", THU NGHIEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://tvonline123.com/player/prima-sport-3/2662
-https://live-serifos.cdn.dejacast.com/prima-sport-3/prima-sport-3.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1b/SCTV1_HD.png/revision/latest?cb=20210711132850&path-prefix=vi", SCTV1 HD
