@@ -104,9 +104,10 @@ http://gg.gg/161c62
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54ffe32d5d8f542afe8c41c839d0b941:6ef9ee92e0db7f8e008d5b5897c9f638
-http://gg.gg/16a0a7
-#http://gg.gg/167pjn http://wintv.fun/chuongduong.php/chuongduong.php?api=&key=ksport1hd.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VP_jLV2PVCr-jEHIOdC5QQ","k":"bvnukuDbf44AjVtYl8n2OA"},{"kty":"oct","kid":"nEPjLV2PVCr-jEHIOdC5QQ","k":"EYLrdpGSZBcJi-_tRQpCzQ"},{"kty":"oct","kid":"qUcnXl2PVCr-jEHIOdC5QQ","k":"crttRQYcf5fb3CPYxSrwzQ"},{"kty":"oct","kid":"lVQndqyPVCr-jEHIOdC5QQ","k":"1vVUEdy8tp0emjUd6f5qKA"}],"type":"temporary"}
+http://gg.gg/16axpg
+#http://gg.gg/16a0a7
+#http://gg.gg/167pjn 
 
 #KODIPROP:inputstream.adaptive.license_key=083f669ed0c943cbb0b047231f0dd06d:e82124f255a15588a15e0ffbbda3f392
 #http://gg.gg/163sz1
@@ -125,8 +126,9 @@ http://gg.gg/16a0a7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b77a68f515b49598d5eb5a40ce13288:0afa5dded554a983865e7fd7247492bb
-http://gg.gg/162sr2
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yf8bRnvHPEpKuhWMoy3XFg","k":"qIP39dBRV-f2EVxotcX3cQ"},{"kty":"oct","kid":"EUMbRnvHPEpKuhWMoy3XFg","k":"nQWKe4fxwLkcSvSrL8QmZQ"},{"kty":"oct","kid":"Hkdfd3vHPEpKuhWMoy3XFg","k":"-wrvvy9LQnLZ8c_xfWIHxA"},{"kty":"oct","kid":"ClRfj8rHPEpKuhWMoy3XFg","k":"83OJqvn-DOlbjqdZcZSasw"}],"type":"temporary"} 
+http://gg.gg/16axnz
+#http://gg.gg/162sr2
 #http://gg.gg/kthethao2
 
 
@@ -140,7 +142,7 @@ http://gg.gg/162sr2
 #KODIPROP:inputstream.adaptive.license_key=c143e589f5ac365588f486b97bface84:203390c93d36fe607ea3bf1125cdf6af
 http://gg.gg/16a0ap
 #http://gg.gg/1659ys
-#http://gg.gg/ktreem http://wintv.fun/chuongduong.php/chuongduong.php?api=&key=kkidshd.mpd
+#http://gg.gg/ktreem 
 
 
 
