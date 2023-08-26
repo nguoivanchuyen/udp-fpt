@@ -38,6 +38,14 @@ udp://@225.1.4.8:30120
 
 #-------------------VTC/VOV-------------------#
 
+#EXTINF:-1 tvg-id="kcinehd" tvg-logo="", TEST
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gO6hQKasNlWI9Ia5e_rOhA","k":"3Igi3sT-NktSAA-rLZMaHA"},{"kty":"oct","kid":"yDKhQKasNlWI9Ia5e_rOhA","k":"XicH8T1Tvrqg0zWn5nnMlA"},{"kty":"oct","kid":"1TblcaasNlWI9Ia5e_rOhA","k":"eG0kbqvXRxpPOeS6nD2WCw"},{"kty":"oct","kid":"wUPlifWsNlWI9Ia5e_rOhA","k":"IDOQyT02_mB-o78RJc32rw"}],"type":"temporary"} 
+https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+
+
 
 
 
