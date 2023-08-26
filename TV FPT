@@ -501,7 +501,8 @@ https://live-3.monomax.me/tv/mono29_1440p.m3u8?vhost=live-3.monomax.me
 #EXTINF:-1 tvg-id="procinema" tvg-logo="https://tvron.net/static/canale/512/pro-cinema.png", Pro-Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://rds.live/
-https://play.stirilepe.net/protvhd/tracks-v1a1/mono.m3u8
+https://play.stirilepe.net/hbo2hd/tracks-v1a1/mono.m3u8
+#https://play.stirilepe.net/protvhd/tracks-v1a1/mono.m3u8
 
 
 #https://tvonline123.com/
