@@ -601,11 +601,20 @@ https://dl.dropboxusercontent.com/s/okmf3ce9s92oa9f/getlink/sctv/e4.endpoint.cdn
 
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb.png" tvg-id="inthebox", In The BOX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://gg.gg/15tmrr
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ5iaZeok8KZnaKZnKidlaBnXmFqYw==&time=1693306590&tv360&id=235
+http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4.png" tvg-id="boxhits", BOX Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://gg.gg/15tmui
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ5iaZeok8KZnaKZnKidlaBnXmFqYw==&time=1693306590&tv360&id=239
+http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822419264/1ce59b8c00e8.png" tvg-id="hollywoodclassics", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
