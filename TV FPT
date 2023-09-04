@@ -611,7 +611,7 @@ http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ9qY5umlMKaoKKflqCglZxgYWVn&time=1693480971&tv360&id=239
+#KODIPROP:inputstream.adaptive.license_key=47b8a6a4598e417d82c342b1b47f7b14:9c013e285ba93596cfa31916c7747cad
 http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
 
 
