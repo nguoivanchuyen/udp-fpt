@@ -378,7 +378,7 @@ http://208.115.225.174:14152
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hbo-logo.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://cnl.cdndac.lol/cnl/14/tracks-v1a1/mono.m3u8
+https://webudit.cdnbos.lol/lb/14/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -388,7 +388,7 @@ https://cnl.cdndac.lol/cnl/14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO2_b_p.png", HBO2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://cnl.cdndac.lol/cnl/15/tracks-v1a1/mono.m3u8
+https://webudit.cdnbos.lol/lb/15/index.m3u8  
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -398,7 +398,7 @@ https://cnl.cdndac.lol/cnl/15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO3_logo.png", HBO3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://cnl.cdndac.lol/cnl/16/tracks-v1a1/mono.m3u8
+https://webudit.cdnbos.lol/lb/16/index.m3u8  
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -483,7 +483,7 @@ http://199.127.60.83:16043/
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png", AMC ROMANIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://webudit.cdnbos.lol/lb/protv/index.m3u8
+https://webudit.cdnbos.lol/lb/40/index.m3u8
 #https://cnl.cdndac.lol/cnl/40/playlist.m3u8
 
 
@@ -492,7 +492,7 @@ https://webudit.cdnbos.lol/lb/protv/index.m3u8
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png", AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
-https://ddy5.cdndac.lol/ddy5/premium303/tracks-v1a1/mono.m3u8
+https://ddy5.cdnbos.lol/ddy5/premium303/tracks-v1a1/mono.m3u8
 
 
 
