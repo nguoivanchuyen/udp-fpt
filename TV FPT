@@ -329,10 +329,10 @@ https://cnl.cdndac.lol/cnl/27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvonline123.com/
-https://main.tvhdonline.info:443/play/Vi0omw-AockoT_iw1Ecg0ETXpzMN5kdKJ-McJ4fVeN4/.m3u8
+#https://main.tvhdonline.info:443/play/Vi0omw-AockoT_iw1Ecg0ETXpzMN5kdKJ-McJ4fVeN4/.m3u8
 
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://webudit.cdndac.lol/lb/84/index.m3u8
+https://webudit.cdndac.lol/lb/84/index.m3u8
 
 
 
@@ -344,10 +344,10 @@ https://main.tvhdonline.info:443/play/Vi0omw-AockoT_iw1Ecg0ETXpzMN5kdKJ-McJ4fVeN
 #EXTINF:-1 tvg-id="cinemax2" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/cinemax2-hd.png", CINEMAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvonline123.com/
-https://main.tvhdonline.info:443/play/Vi0omw-AockoT_iw1Ecg0GsYZ6xcAd8p8Hw62Hw8U-g/.m3u8
+#https://main.tvhdonline.info:443/play/Vi0omw-AockoT_iw1Ecg0GsYZ6xcAd8p8Hw62Hw8U-g/.m3u8
 
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://webudit.cdndac.lol/lb/85/index.m3u8
+https://webudit.cdndac.lol/lb/85/index.m3u8
 
 
 
