@@ -306,7 +306,7 @@ https://fls.cdndac.lol/fls/26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_white_logo.png",AXN WHITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.cdndac.lol/fls/28/tracks-v1a1/mono.m3u8
+https://cnl.webdicdn.lol/cnl/28/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -332,8 +332,7 @@ https://cnl.cdndac.lol/cnl/27/tracks-v1a1/mono.m3u8
 #https://main.tvhdonline.info:443/play/Vi0omw-AockoT_iw1Ecg0ETXpzMN5kdKJ-McJ4fVeN4/.m3u8
 
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://webudit.cdndac.lol/lb/84/index.m3u8
-
+https://cnl.webdicdn.lol/cnl/84/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -347,7 +346,7 @@ https://webudit.cdndac.lol/lb/84/index.m3u8
 #https://main.tvhdonline.info:443/play/Vi0omw-AockoT_iw1Ecg0GsYZ6xcAd8p8Hw62Hw8U-g/.m3u8
 
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://webudit.cdndac.lol/lb/85/index.m3u8
+https://cnl.webdicdn.lol/cnl/85/playlist.m3u8
 
 
 
@@ -384,7 +383,7 @@ http://208.115.225.174:14152
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hbo-logo.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://webudit.cdnbos.lol/lb/14/index.m3u8
+https://cnl.webdicdn.lol/cnl/14/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -394,7 +393,7 @@ https://webudit.cdnbos.lol/lb/14/index.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO2_b_p.png", HBO2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://webudit.cdnbos.lol/lb/15/index.m3u8  
+https://cnl.webdicdn.lol/cnl/15/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -404,7 +403,7 @@ https://webudit.cdnbos.lol/lb/15/index.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO3_logo.png", HBO3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://webudit.cdnbos.lol/lb/16/index.m3u8  
+https://cnl.webdicdn.lol/cnl/16/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
