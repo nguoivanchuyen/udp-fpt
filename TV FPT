@@ -312,6 +312,17 @@ http://live.cooltv.top/tv/lotus.php
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.atmedia.cz/coEsasGteB9/uploads/2023/03/Logo-CANALACTION-safe-299x138.png", Canal+ Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://gg.gg/16r9fe
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1024px-HWD_logo.svg.png", HOLLYWOOD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://gg.gg/16r9kf
+
+
 
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png", HBO THAI
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -335,8 +346,9 @@ https://fls.webdicdn.lol/fls/26/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_white_logo.png",AXN WHITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://gg.gg/16r9ft
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.webdicdn.lol/fls/28/playlist.m3u8
+#https://fls.webdicdn.lol/fls/28/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -347,8 +359,9 @@ https://fls.webdicdn.lol/fls/28/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_black_logo.png",AXN BLACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://gg.gg/16r9g8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.webdicdn.lol/fls/27/tracks-v1a1/mono.m3u8
+#https://fls.webdicdn.lol/fls/27/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
