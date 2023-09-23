@@ -55,7 +55,7 @@ udp://@225.1.4.8:30120
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c8e21dacb7ef4df2a6983144f5f4f4a6:dccf3989d5b688c9a6e906a2c91a054d
+#KODIPROP:inputstream.adaptive.license_key=e8f481ef06524f4c954a7fa6a7520963:cc3f1ef6c6df666c1ace50fbd3489e70
 http://gg.gg/161c5v
 
 
@@ -102,7 +102,7 @@ http://gg.gg/161c62
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VP_jLV2PVCr-jEHIOdC5QQ","k":"bvnukuDbf44AjVtYl8n2OA"},{"kty":"oct","kid":"nEPjLV2PVCr-jEHIOdC5QQ","k":"EYLrdpGSZBcJi-_tRQpCzQ"},{"kty":"oct","kid":"qUcnXl2PVCr-jEHIOdC5QQ","k":"crttRQYcf5fb3CPYxSrwzQ"},{"kty":"oct","kid":"lVQndqyPVCr-jEHIOdC5QQ","k":"1vVUEdy8tp0emjUd6f5qKA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=5d67ce7ac07a934bee842e58c294e221:0e93cc2313d9b969fe3633c810388a84
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd 
 
 #https://s.id/1T0G3
