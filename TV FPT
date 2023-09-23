@@ -300,6 +300,18 @@ http://gg.gg/16r844
 
 
 
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/105x0-icon.png", Lotus Macau
+http://live.cooltv.top/tv/lotus.php
+#http://103.112.191.9:880/LAOSAT1069.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch139_160_115", SCM
+#http://103.112.191.9:880/LAOSAT1082.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lstime.com.tw/ls_pages/pages/img/img_logo.png", LS Times TV
+#http://103.112.191.9:880/LAOSAT1084.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/10/04/02/163329112517/6cb3ef1d12de.png", HBO THAI
 #EXTVLCOPT:http-referrer=https://wacth.tv/
@@ -673,18 +685,10 @@ https://iplogger.com/22DXR7
 
 
 
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/105x0-icon.png", Lotus Macau
-http://live.cooltv.top/tv/lotus.php
-#http://103.112.191.9:880/LAOSAT1069.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch139_160_115", SCM
-http://103.112.191.9:880/LAOSAT1082.m3u8
-#EXTINF:-1 tvg-logo="http://www.lstime.com.tw/ls_pages/pages/img/img_logo.png", LS Times TV
-http://103.112.191.9:880/LAOSAT1084.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/105x0-icon.png", Lotus Macau
-http://gg.gg/16r7ii
+#http://gg.gg/16r7ii
 
 
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/79/84/40/6l1.png",VIP Megahit
