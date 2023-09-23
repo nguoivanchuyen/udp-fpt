@@ -42,7 +42,7 @@ udp://@225.1.4.8:30120
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gO6hQKasNlWI9Ia5e_rOhA","k":"3Igi3sT-NktSAA-rLZMaHA"},{"kty":"oct","kid":"yDKhQKasNlWI9Ia5e_rOhA","k":"XicH8T1Tvrqg0zWn5nnMlA"},{"kty":"oct","kid":"1TblcaasNlWI9Ia5e_rOhA","k":"eG0kbqvXRxpPOeS6nD2WCw"},{"kty":"oct","kid":"wUPlifWsNlWI9Ia5e_rOhA","k":"IDOQyT02_mB-o78RJc32rw"}],"type":"temporary"} 
-https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+#https://akafpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 
 
@@ -610,7 +610,7 @@ https://dl.dropboxusercontent.com/s/okmf3ce9s92oa9f/getlink/sctv/e4.endpoint.cdn
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZZ9qY5umlMKaoKKflqCglZxgYWVn&time=1693480971&tv360&id=235
+#KODIPROP:inputstream.adaptive.license_key=f54dd20d04874ce6aed4f126609f2a4c:7cfe66dc0cc78c9730f3cee6002092dd
 http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
 
 
@@ -630,13 +630,13 @@ https://dl.dropboxusercontent.com/s/k8q94vfm19h60b1/getlink/sctv/e4.endpoint.cdn
 
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64.png" tvg-id="happykids", Happy Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://gg.gg/15tmvh
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a.png" tvg-id="woman", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://gg.gg/15tmvr
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c.png" tvg-id="man", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://gg.gg/15tmw2
+https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06.png" tvg-id="planetearthhd", Planet Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://gg.gg/15tmw5
