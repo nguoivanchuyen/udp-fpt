@@ -308,6 +308,8 @@ http://live.cooltv.top/tv/lotus.php
 #http://103.112.191.9:880/LAOSAT1082.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lstime.com.tw/ls_pages/pages/img/img_logo.png", LS Times TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://gg.gg/16tlu2
 #http://103.112.191.9:880/LAOSAT1084.m3u8
 
 
@@ -318,7 +320,7 @@ http://gg.gg/16r9fe
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1024px-HWD_logo.svg.png", HOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/Canal_Hollywood_ES_logo.png", HOLLYWOOD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://gg.gg/16r9kf
 
