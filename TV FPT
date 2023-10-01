@@ -28,6 +28,10 @@ udp://@225.1.4.7:30120
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc.png",VTV9 HD
 udp://@225.1.4.8:30120
 
+#EXTINF:-0 group-title="Movies" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",3BB-HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="", TEST
