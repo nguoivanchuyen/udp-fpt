@@ -537,6 +537,14 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 
 
 #------------------------------------------------#
+
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/10/10/pnxwvk.png",NEW EXPLORER HD
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://mediasv.online/wacth_1_dvr/goodtv59_New_Explorer./chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMiA2OjQ4OjA1IEFNJmhhc2hfdmFsdWU9Z0w4RE1kNm4rQ1RDWDN5dmpoUFRlZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0zNCZpZD1jaF80MTI5OQ==
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/10/10/pnxwvk.png",NEW EXPLORER HD สำรอง
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/goodtv59_New_Explorer./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDIzIDI6MTc6NTkgQU0maGFzaF92YWx1ZT0xUlZGNktvT0NOc0pCR3F6WUpqcENnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjg0NDI=
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="3. MOVIES",HBO CUB
