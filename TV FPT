@@ -31,7 +31,7 @@ udp://@225.1.4.8:30120
 #EXTINF:-0 group-title="Movies" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",3BB-HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
 
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-logo="", TEST
@@ -60,7 +60,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=e8f481ef06524f4c954a7fa6a7520963:cc3f1ef6c6df666c1ace50fbd3489e70
-http://gg.gg/161c5v
+#http://gg.gg/161c5v
 
 
 
@@ -70,7 +70,7 @@ http://gg.gg/161c5v
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee1135b3ed3643c18208d394c411dc17:2fc31934ddcd70057ba69dab81730716
-http://gg.gg/161c62
+#http://gg.gg/161c62
 
 
 
@@ -107,7 +107,7 @@ http://gg.gg/161c62
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=5d67ce7ac07a934bee842e58c294e221:0e93cc2313d9b969fe3633c810388a84
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd 
+#https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd 
 
 #https://s.id/1T0G3
 #http://gg.gg/16a0a7
@@ -132,7 +132,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yf8bRnvHPEpKuhWMoy3XFg","k":"qIP39dBRV-f2EVxotcX3cQ"},{"kty":"oct","kid":"EUMbRnvHPEpKuhWMoy3XFg","k":"nQWKe4fxwLkcSvSrL8QmZQ"},{"kty":"oct","kid":"Hkdfd3vHPEpKuhWMoy3XFg","k":"-wrvvy9LQnLZ8c_xfWIHxA"},{"kty":"oct","kid":"ClRfj8rHPEpKuhWMoy3XFg","k":"83OJqvn-DOlbjqdZcZSasw"}],"type":"temporary"} 
-http://gg.gg/16axnz
+#http://gg.gg/16axnz
 #http://gg.gg/162sr2
 #http://gg.gg/kthethao2
 
@@ -145,7 +145,7 @@ http://gg.gg/16axnz
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gO6hQKasNlWI9Ia5e_rOhA","k":"3Igi3sT-NktSAA-rLZMaHA"},{"kty":"oct","kid":"yDKhQKasNlWI9Ia5e_rOhA","k":"XicH8T1Tvrqg0zWn5nnMlA"},{"kty":"oct","kid":"1TblcaasNlWI9Ia5e_rOhA","k":"eG0kbqvXRxpPOeS6nD2WCw"},{"kty":"oct","kid":"wUPlifWsNlWI9Ia5e_rOhA","k":"IDOQyT02_mB-o78RJc32rw"}],"type":"temporary"}
-http://gg.gg/16a0ap
+#http://gg.gg/16a0ap
 #http://gg.gg/1659ys
 #http://gg.gg/ktreem 
 
@@ -522,7 +522,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature HD
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://m2.ballnaja.com:8443/HBOSIG/tracks-v1a1/mono.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
 
@@ -533,7 +534,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family HD", HBO Family HD
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://m2.ballnaja.com:8443/HBOFAMILY/tracks-v1a1/mono.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
 #------------------------------------------------#
