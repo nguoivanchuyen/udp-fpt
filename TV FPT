@@ -700,7 +700,7 @@ https://dl.dropboxusercontent.com/s/okmf3ce9s92oa9f/getlink/sctv/e4.endpoint.cdn
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f54dd20d04874ce6aed4f126609f2a4c:7cfe66dc0cc78c9730f3cee6002092dd
-http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
+https://tiemnhazunn.click/tv360/tv360.php?id=235
 
 
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4.png" tvg-id="boxhits", BOX Hits
@@ -708,7 +708,7 @@ http://code.vthanhtivi.pw/getlink/tv360_2/235/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47b8a6a4598e417d82c342b1b47f7b14:9c013e285ba93596cfa31916c7747cad
-http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
+https://tiemnhazunn.click/tv360/tv360.php?id=239
 
 
 
@@ -725,10 +725,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sct
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c.png" tvg-id="man", Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
+https://tiemnhazunn.click/tv360/tv360.php?id=237
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06.png" tvg-id="planetearthhd", Planet Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://gg.gg/15tmw5
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e.png" tvg-id="drfithd", Dr.Fit
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://dl.dropboxusercontent.com/s/py85trk5mdk9n8t/getlink/sctv/e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8
