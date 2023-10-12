@@ -564,6 +564,15 @@ http://gg.gg/170cfg
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
+
+
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="http://logo.yurend.net/05.film/hbosignature.png" ch-number="92",HBO SIGNATURE 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.thomasandi.my.id/coba/cubmu/drm.php?&token=Wb6AAcTRQmRLdecvdBpuZshQuJCsirfdHnp
+https://cdn.thomasandi.my.id/coba/cubmu/index.mpd?id=4028c6856c3db2cc016d0552e0ca37a2&andi=3&token=Wb6AAcTRQmRLdecvdBpuZshQuJCsirfdHnp
+
+
+
 #------------------------------------------------#
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
