@@ -573,6 +573,22 @@ http://gg.gg/170cfg
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="SuperSportCricket.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sky_Cinema_Action_HD_-_Logo_2021.svg/600px-Sky_Cinema_Action_HD_-_Logo_2021.svg.png" , Sky Cinema Action Italy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium861/index.m3u8
+
+
+
+
+
+
+
 #------------------------------------------------#
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
