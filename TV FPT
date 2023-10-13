@@ -585,7 +585,10 @@ https://ddy2.vipboxtv.stream/ddy2/premium861/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-HITS-June-2020.png" tvg-id="beINSports.qa", Sky Cinema Action TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00055936f2c448256808c819bc4e4451:b33076232074650c549a2d9b9bc85725
+https://linear004-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skycinemahits)/manifest_hd.mpd
 
 
 
