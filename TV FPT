@@ -501,9 +501,10 @@ https://fls.vipboxtv.stream/fls/16/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO HIT(TH)" tvg-name="" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/105.png", HBO Hits
-https://2nud.short.gy/hbohitsth.m3u8
-#EXTVLCOPT:http-referrer=https://series.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://gg.gg/174j6y
+#https://2nud.short.gy/hbohitsth.m3u8
+#EXTVLCOPT:http-referrer=https://series.live
 #https://dkl-o53d.cdn.akamaiz.com/serieslive/hbo-hits/playlist.m3u8?|referre=https://series.live
 #EXTVLCOPT:http-referrer=https://series.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
