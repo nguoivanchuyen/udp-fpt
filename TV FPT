@@ -482,7 +482,7 @@ https://fls.vipboxtv.stream/fls/14/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO2_b_p.png", HBO2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvonline123.com/
-https://lb11.canaletv.live/HBO2/index.m3u8
+https://lb11.canaletv.live/HBO2HD/index.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 #https://fls.vipboxtv.stream/fls/15/playlist.m3u8
 
