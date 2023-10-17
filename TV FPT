@@ -319,13 +319,13 @@ http://gg.gg/16r7wl
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/ebcyangpian.jpg", Dongsen Foreign Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/pc_logo.png", Dongsen Foreign Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://gg.gg/16r82k
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/etmovie.jpg", Dongsen Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png", Dongsen Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://gg.gg/16r844
 
