@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/taiwanpremium.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/taiwanpremium.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="http://trada.info/epg.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/taiwanpremium.xml,https://www.bevy.be/bevyfiles/thailand.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/taiwanpremium.xml,https://www.bevy.be/bevyfiles/thailand.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=0
 
 
 #-------------------VTV-------------------#
@@ -537,7 +537,7 @@ https://fls.vipboxtv.stream/fls/16/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO HIT(TH)" tvg-name="" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=100&ImageId=%276318774%27", HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits.th" tvg-name="" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=100&ImageId=%276318774%27", HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://gg.gg/174j6y
 #https://2nud.short.gy/hbohitsth.m3u8
@@ -585,7 +585,7 @@ http://gg.gg/174j6y
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature HD
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" tvg-id="" tvg-name="HBO Signature.th", HBO Signature HD
 http://gg.gg/170cfm
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
@@ -597,7 +597,7 @@ http://gg.gg/170cfm
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family HD", HBO Family HD
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family.th", HBO Family HD
 http://gg.gg/170cfg
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
