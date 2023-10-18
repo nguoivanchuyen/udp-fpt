@@ -398,12 +398,12 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_hu_logo.png", AXN HD
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://i.postimg.cc/LhywQQjH/axn-hu-logo.png", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://fls.vipboxtv.stream/fls/26/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_white_logo.png",AXN WHITE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rzy7J20n/axn-white-logo.png",AXN WHITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://gg.gg/16r9ft
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
@@ -416,7 +416,7 @@ http://gg.gg/16r9ft
 #https://m7rovideolive.solocoo.tv/blueskylivedash/blueaxnwhite/Manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/img/kanali-logo/axn_black_logo.png",AXN BLACK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ffcF1NS/axn-black-logo.png",AXN BLACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://gg.gg/16r9g8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
@@ -473,7 +473,7 @@ http://208.115.225.174:14165
 
 
 
-#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO Plus
+#EXTINF:-1 tvg-id="hboplus" tvg-logo="https://i.postimg.cc/FzWTh5qL/hbo-plus-logo-E8-E9-BF8-A5-F-seeklogo-com.png", HBO Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://208.115.225.174:14152
 #EXTVLCOPT:http-referrer=https://embedflix.net/
@@ -483,7 +483,7 @@ http://208.115.225.174:14152
 
 
 
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/hbo-logo.png", HBO
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.postimg.cc/K4nPH6nL/hbo-logo.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://fls.vipboxtv.stream/fls/14/playlist.m3u8
@@ -494,7 +494,7 @@ https://fls.vipboxtv.stream/fls/14/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.pw/key.php?keyid=0ce840ae4c7244888b56def83d9d6909&key=5da720d74289f4b96dcbffac3912d485
 #https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehboro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="hbo2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO2_b_p.png", HBO2
+#EXTINF:-1 tvg-id="hbo2" tvg-logo="https://i.postimg.cc/gLq3LhY4/HBO2-b-p.png", HBO2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvonline123.com/
 #https://lb11.canaletv.live/HBO2HD/index.m3u8
@@ -506,7 +506,7 @@ https://fls.vipboxtv.stream/fls/15/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=37899bd20f1745f4961a1ca82146cb71:bfdb5a62f5d3bf59ff2515c49a968a51
 #https://m7rovideolive.solocoo.tv/blueskylive2dash/bluehbo2ro/Manifest.mpd
 
-#EXTINF:-1 tvg-id="hbo3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO3_logo.png", HBO3
+#EXTINF:-1 tvg-id="hbo3" tvg-logo="https://i.postimg.cc/N5B6qd4n/HBO3-logo.png", HBO3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://fls.vipboxtv.stream/fls/16/playlist.m3u8
@@ -538,7 +538,7 @@ http://gg.gg/174j6y
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits HD", HBO Hits HD
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_260_200" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits HD", HBO Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
