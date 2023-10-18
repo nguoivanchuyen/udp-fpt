@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=0
+#EXTM3U url-tvg="http://trada.info/epg.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/taiwanpremium.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/taiwanpremium.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=0
 
 
 #-------------------VTV-------------------#
@@ -313,21 +313,21 @@ udp://@225.1.4.90:30120
 
 
 
-#EXTINF:-1 tvg-id="starmovie" tvg-logo="https://i.postimg.cc/4xV1zhqR/Star-Movies-LOGO.png", Star Movies
+#EXTINF:-1 tvg-id="Star Movie HD" tvg-logo="https://i.postimg.cc/4xV1zhqR/Star-Movies-LOGO.png", Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://gg.gg/16r7wl
 
 
 
 
-#EXTINF:-1 tvg-id="starmovie" tvg-logo="https://i.postimg.cc/mrPHbg0Q/and-Prive-HD.png", AndPrive HD
+#EXTINF:-1 tvg-id="&amp;Prive HD" tvg-logo="https://i.postimg.cc/mrPHbg0Q/and-Prive-HD.png", AndPrive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsstjQD1/andflix-HD.png", AndFlix HD
+#EXTINF:-1 tvg-id="&amp;Flix HD" tvg-logo="https://i.postimg.cc/HsstjQD1/andflix-HD.png", AndFlix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
