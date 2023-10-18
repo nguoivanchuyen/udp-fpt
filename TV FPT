@@ -322,7 +322,15 @@ http://gg.gg/16r7wl
 
 #EXTINF:-1 tvg-id="starmovie" tvg-logo="https://i.postimg.cc/mrPHbg0Q/and-Prive-HD.png", AndPrive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5zo7dZzOfe7QpKGzmaO-eGl9N3R7SiS7kT89Bcvpo&s", AndFlix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 
 
