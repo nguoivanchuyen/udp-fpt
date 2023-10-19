@@ -400,7 +400,8 @@ http://gg.gg/16tlu2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTkRF2M7/hollywood-tw.png", HOLLYWOOD TW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.45.68.47/gy/gy645/xsj.php?id=hollywood-tw
+https://histar-30d90da68270.herokuapp.com/hsitar.php?id=hollywood-tw
+#http://103.45.68.47/gy/gy645/xsj.php?id=hollywood-tw
 
 #EXTINF:-1 tvg-logo="https://moviechannel.catchplay.com/wp-content/themes/CATCHPLAY/dist/assets/logo-c3b33817.svg", CATCHPLAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
