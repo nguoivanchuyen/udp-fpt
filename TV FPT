@@ -234,8 +234,9 @@ udp://@225.1.4.59:30120
 udp://@225.1.4.11:30120
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015.png",HTV THỂ THAO 
 udp://@225.1.4.60:30120
-#EXTINF:0 tvg-id="htvcphimtruyenhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3.png",HTVC Phim truyện
-udp://@225.1.1.85:30120
+#EXTINF:0 tvg-id="htvcphimthd" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3.png",HTVC Phim HD
+#udp://@225.1.1.85:30120
+udp://@225.1.4.63:30120
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1.png",HTVC Du Lịch và Cuộc Sống 
 udp://@225.1.4.67:30120
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71.png",HTVC Ca Nhạc 
@@ -272,9 +273,9 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://s
 
 #-------------------Thiết yếu-------------------#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV HD (HD 8Mbps)
 #udp://@225.1.2.169:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 8Mbps)
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV (HD 8Mbps)
 #udp://@225.1.1.91:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội HD (HD 8Mbps)
 #udp://@225.1.2.148:30120
@@ -282,15 +283,15 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8|Referer=http://s
 #udp://@225.1.2.217:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 8Mbps)
 #udp://@225.1.1.167:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8.png",ANTV HD (HD 4Mbps)
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8.png",ANTV HD (HD 4Mbps)
 udp://@225.1.4.221:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822524686/56155e5fc946.png",Nhân Dân TV (HD 4Mbps)
+#EXTINF:-1 tvg-id="nhandan" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822524686/56155e5fc946.png",Nhân Dân TV (HD 4Mbps)
 udp://@225.1.4.98:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2022/06/03/10/1654228283744/fa8c885bd8ca.png",Quốc Hội HD (HD 4Mbps)
+#EXTINF:-1 tvg-id="quochoi" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/06/03/10/1654228283744/fa8c885bd8ca.png",Quốc Hội HD (HD 4Mbps)
 udp://@225.1.4.148:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822254297/3c150355b7f8.png",QPVN (HD 4Mbps)
+#EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822254297/3c150355b7f8.png",QPVN (HD 4Mbps)
 udp://@225.1.4.170:30120
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822812268/96c2ed28d08e.png",VNEWS (HD 4Mbps)
+#EXTINF:-1 tvg-id="vnews" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822812268/96c2ed28d08e.png",VNEWS (HD 4Mbps)
 udp://@225.1.4.219:30120
 
 
