@@ -415,6 +415,14 @@ https://histar-30d90da68270.herokuapp.com/hsitar.php?id=star-movies
 
 
 
+
+#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-05-15/e9d3aaa2365ec961e38f3dfec83b2f2c.png", 龙华电影台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://www.histar.tv/
+https://histar-30d90da68270.herokuapp.com/hsitar.php?id=ltv-movies
+
+
 #EXTINF:-1 tvg-logo="https://moviechannel.catchplay.com/wp-content/themes/CATCHPLAY/dist/assets/logo-c3b33817.svg", CATCHPLAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://yeslivetv.com/channels/catchplay/
