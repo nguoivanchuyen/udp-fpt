@@ -476,7 +476,7 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="axn" tvg-logo="https://i.postimg.cc/LhywQQjH/axn-hu-logo.png", AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.vipboxtv.stream/fls/26/tracks-v1a1/mono.m3u8
+https://fls.hlsjs.ru/fls/26/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rzy7J20n/axn-white-logo.png",AXN WHITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -509,7 +509,7 @@ http://gg.gg/16r9g8
 #https://main.tvhdonline.info:443/play/Vi0omw-AockoT_iw1Ecg0ETXpzMN5kdKJ-McJ4fVeN4/.m3u8
 
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.vipboxtv.stream/fls/84/playlist.m3u8
+https://fls.hlsjs.ru/fls/84/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -524,7 +524,7 @@ https://fls.vipboxtv.stream/fls/84/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rds.live/
 #https://play.stirilepe.net/cinemax2sd/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.vipboxtv.stream/fls/85/playlist.m3u8
+https://fls.hlsjs.ru/fls/85/playlist.m3u8
 
 
 
@@ -561,7 +561,7 @@ http://208.115.225.174:14152
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.postimg.cc/K4nPH6nL/hbo-logo.png", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.vipboxtv.stream/fls/14/playlist.m3u8
+https://fls.hlsjs.ru/fls/14/playlist.m3u8
 #
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -574,7 +574,7 @@ https://fls.vipboxtv.stream/fls/14/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvonline123.com/
 #https://lb11.canaletv.live/HBO2HD/index.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.vipboxtv.stream/fls/15/playlist.m3u8
+https://fls.hlsjs.ru/fls/15/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -584,7 +584,7 @@ https://fls.vipboxtv.stream/fls/15/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo3" tvg-logo="https://i.postimg.cc/N5B6qd4n/HBO3-logo.png", HBO3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.vipboxtv.stream/fls/16/playlist.m3u8
+https://fls.hlsjs.ru/fls/16/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -745,7 +745,7 @@ http://199.127.60.83:16043/
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/2560px-Amc_logo.svg.png", AMC ROMANIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://fls.vipboxtv.stream/fls/40/index.m3u8
+https://fls.hlsjs.ru/fls/40/index.m3u8
 #https://cnl.cdndac.lol/fls/40/playlist.m3u8
 
 
