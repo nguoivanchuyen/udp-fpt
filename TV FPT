@@ -404,7 +404,7 @@ http://gg.gg/16tlu2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
-https://histar-30d90da68270.herokuapp.com/hsitar.php?id=hollywood-tw
+https://histar-30d90da68270.herokuapp.com/hsitar.php?id=hollywood-tw|Referer=https://www.histar.tv/\u0026User-agent\u003dREDLINECLIENT
 #http://103.45.68.47/gy/gy645/xsj.php?id=hollywood-tw
 
 
@@ -413,7 +413,7 @@ https://histar-30d90da68270.herokuapp.com/hsitar.php?id=hollywood-tw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
-https://histar-30d90da68270.herokuapp.com/hsitar.php?id=star-movies
+https://histar-30d90da68270.herokuapp.com/hsitar.php?id=star-movies|Referer=https://www.histar.tv/\u0026User-agent\u003dREDLINECLIENT
 
 
 
@@ -422,7 +422,7 @@ https://histar-30d90da68270.herokuapp.com/hsitar.php?id=star-movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
-https://histar-30d90da68270.herokuapp.com/hsitar.php?id=ltv-movies
+https://histar-30d90da68270.herokuapp.com/hsitar.php?id=ltv-movies|Referer=https://www.histar.tv/\u0026User-agent\u003dREDLINECLIENT
 
 
 #EXTINF:-1 tvg-logo="https://moviechannel.catchplay.com/wp-content/themes/CATCHPLAY/dist/assets/logo-c3b33817.svg", CATCHPLAY
