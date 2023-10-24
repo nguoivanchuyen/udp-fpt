@@ -389,6 +389,7 @@ http://gg.gg/16r844
 http://live.cooltv.top/tv/lotus.php
 #http://103.112.191.9:880/LAOSAT1069.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch139_160_115", SCM
 #http://103.112.191.9:880/LAOSAT1082.m3u8
 
@@ -431,6 +432,12 @@ https://histar-30d90da68270.herokuapp.com/hsitar.php?id=ltv-movies|Referer=https
 #https://yeslivetv.com/twiptv/4gtv-4gtv076/index.m3u8?by=yeslivetv.com
 #http://gg.gg/16zcnk
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png", SONY PIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cdn-tv.co.in/sonyliv/play.php?c=1000009258
+https://cdn-tv.co.in/sonyliv/playlist.php?load=49f1bf1228cf820e80d884253947b651a8c72f8869fbb33c03b76ddebff5f4c5ab8f676e46e64a854072fbe3a305d9aa1a9c784084e79ec61e4a5678763874090f58978bfcf06b11752475ad85afe629f35c88ffeca0ff2931c4b704b740fae6f0f0abaedf5b5a9f02c892ce160557ee51659b114840b873e3c6dc96202351e5b13d985e8a4a47dbbd86f47306c3f4b8714b226afc703341da974f6ef783a7665b4e799111ce2fabbdc14e8d3f858e9c069f22a38e2277d3b47e6dce5186d5e540c32c72f15ef7b68cecfcb391a99b6014647ac24860cb6d7b321ff9d377d8fd1b09de5e3747d7cc219d8b30d046b777faa3b6693fb6196d845a525d70e43a2a3319855f5c0fb9d10798ca02f6ce05e6e8fcf6dd30338d6c8cfd5d2058c18638af3b9bbb054024e99e7004fbfb1008ea37d25adde3d47a4a23af6cf090441fa2735da6f72e5b111c03a9e3013d1dbe131df6789029df515562d1c79bb2e3abaf24d9e22973dbe487a3fe578cba985601&token=
 
 
 
