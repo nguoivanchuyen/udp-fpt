@@ -153,6 +153,16 @@ udp://@225.1.4.8:30120
 
 #---------------------------------------------#
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="MNC GRUP",HBO CUB
@@ -214,7 +224,7 @@ udp://@225.1.4.52:30120
 udp://@225.1.4.53:30120
 #EXTINF:-1 tvg-id="vtc16" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822490601/483ca340a5e6.png",VTC16 HD
 udp://@225.1.4.54:30120
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
+#EXTINF:-1 tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png",VOV TV
 udp://@225.1.2.171:30120
 
 
