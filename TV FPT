@@ -224,8 +224,7 @@ udp://@225.1.4.52:30120
 udp://@225.1.4.53:30120
 #EXTINF:-1 tvg-id="vtc16" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822490601/483ca340a5e6.png",VTC16 HD
 udp://@225.1.4.54:30120
-#EXTINF:-1 tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png",VOV TV
-udp://@225.1.2.171:30120
+
 
 
 #-------------------HTV/HTVC-------------------#
@@ -303,8 +302,8 @@ udp://@225.1.4.148:30120
 udp://@225.1.4.170:30120
 #EXTINF:-1 tvg-id="vnews" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822812268/96c2ed28d08e.png",VNEWS (HD 4Mbps)
 udp://@225.1.4.219:30120
-
-
+#EXTINF:-1 tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png",VOV TV
+udp://@225.1.2.171:30120
 
 
 #-------------------Quốc tế-------------------#
